@@ -1,0 +1,189 @@
+# sid | background | arrow | note
+0|black|white|single large chevron
+1|white|red|row of red chevrons
+2|white|red|row of red chevrons
+3|yellow|black|rounded yellow sign
+4|white|blue|row of blue chevrons
+5|white|red|single red chevron
+6|white|blue|row of blue chevrons
+7|orange|black|rounded orange sign
+8|black|white|rounded black sign
+9|red|yellow|row of yellow chevrons on red
+10|red|white|single chevron
+11|yellow|red|rounded yellow sign
+12|red|yellow|rounded red sign
+13|black|white|single chevron
+14|white|red|single chevron
+15|black|white|row of white chevrons
+16|orange|black|rounded orange sign
+17|white|red|single chevron, black border
+18|white|red|single chevron
+19|yellow|black|black-yellow double-direction strip
+20|black|yellow|amber chevron on black
+21|black|yellow|rounded black sign, yellow chevron
+22|white|red|single chevron
+23|white|red|red-white chevron board on posts
+24|black|yellow|amber chevron on black
+25|black|yellow|row of amber chevrons on black
+26|yellow|black|rounded yellow sign
+27|yellow|black|row of black chevrons on yellow
+28|yellow|black|square yellow sign
+29|black|white|rounded black sign
+30|orange|black|rounded orange sign
+31|yellow|black|square bright-yellow sign
+32|orange|black|rounded orange sign
+33|white|red|single chevron
+34|yellow|red|yellow sign, red chevron
+35|white|red|single chevron
+36|white|red|single chevron
+37|white|red|single chevron
+38|yellow|red|yellow sign, red chevron (temporary/variant)
+39|white|red|single chevron
+40|orange|black|square orange sign
+41|yellow|black|square yellow sign
+42|white|red|row of red chevrons
+43|white|red|single chevron
+44|white|red|single chevron
+45|black|yellow|amber chevron on black (older)
+46|black|yellow|yellow chevron on black (Finland)
+47|blue|white|blue sign with white chevron (France)
+48|white|red|row of red chevrons
+49|red|white|single chevron
+50|red|white|red sign with white chevron
+51|white|red|single chevron
+52|black|yellow|row of yellow chevrons on black
+53|yellow|black|row of thin black chevrons on yellow
+54|orange|black|rounded orange sign
+55|black|white|single chevron
+56|white|red|single chevron
+57|yellow|black|rounded yellow sign
+58|yellow|black|rounded yellow sign
+59|black|white|row of white chevrons, yellow border
+60|black|white|row of white chevrons on black
+61|black|white|row of white chevrons on black
+62|red|white|single chevron
+63|white|red|single chevron
+64|black|white|black-white chevron board
+65|black|yellow|row of yellow chevrons on black
+66|orange|black|square orange sign
+67|yellow|black|row of black chevrons on yellow
+68|black|yellow|black-yellow chevron board
+69|orange|black|rounded orange sign, black border
+70|white|black|white sign with black chevron and border
+71|black|yellow|yellow chevron on black
+72|black|yellow|row of yellow chevrons on black
+73|black|yellow|row of yellow chevrons on black
+74|black|white|row of white chevrons on black
+75|black|white|row of white chevrons on black
+76|white|black|row of black chevrons on white
+77|black|white|single chevron
+78|red|white|single chevron
+79|orange|black|square orange sign
+80|yellow|black|square yellow sign
+81|black|yellow|rounded black sign, amber chevron
+82|white|black|row of black chevrons on white
+83|white|red|single chevron
+84|white|red|red-white double-direction strip
+85|orange|black|rounded orange sign
+86|yellow|black|rounded yellow sign
+87|white|red|single chevron
+88|white|black|single black chevron on white
+89|white|red|row of red chevrons
+90|yellow|black|tall yellow sign
+91|white|red|row of red chevrons
+92|blue|white|blue sign with white chevron
+93|yellow|red|yellow-bordered white sign with red chevron
+94|white|red|single chevron
+95|yellow|black|narrow vertical black-yellow marker
+96|white|black|row of black chevrons on white
+97|white|black|black-white chevron board
+98|white|red|red-white double-direction strip
+99|black|yellow|amber chevron on black
+100|white|red|row of red chevrons
+101|blue|yellow|blue sign with amber chevron (Luxembourg)
+102|yellow|black|yellow sign
+103|orange|black|rounded orange sign, black border
+104|yellow|black|yellow sign, black border
+105|black|white|single chevron
+106|orange|black|orange sign
+107|white|red|row of red chevrons
+108|red|white|single chevron
+109|yellow|red|rounded yellow sign, red chevron
+110|white|black|single black chevron on white
+111|white|red|single chevron
+112|black|white|black sign, white chevron
+113|white|red|single chevron
+114|white|blue|blue-white diagonally striped post (Netherlands)
+115|yellow|black|rounded yellow sign, black border
+116|black|white|row of white chevrons on black
+117|black|white|tall single chevron
+118|black|yellow|amber chevron on black
+119|yellow|red|row of red chevrons on yellow
+120|white|red|row of red chevrons
+121|white|red|single chevron
+122|black|yellow|amber chevron on black (Norway)
+123|orange|black|orange board with many black chevrons
+124|orange|black|orange sign
+125|blue|white|blue-white chevron board
+126|yellow|black|yellow sign
+127|yellow|black|bright yellow sign
+128|yellow|black|yellow sign with white-outlined black chevron
+129|orange|black|orange sign
+130|white|red|single chevron
+131|white|black|row of black chevrons on white
+132|yellow|black|tall yellow sign
+133|white|red|single chevron
+134|black|yellow|amber chevron on black (Portugal)
+135|orange|black|orange sign
+136|black|yellow|row of yellow chevrons on black
+137|white|blue|row of blue chevrons
+138|red|white|single chevron
+139|white|red|single chevron
+140|red|white|single chevron (Russia)
+141|white|red|row of red chevrons
+142|blue|white|blue sign with white chevron (Réunion, French)
+143|yellow|red|yellow sign, red chevron
+144|white|blue|row of blue chevrons
+145|white|red|row of red chevrons
+146|white|black|single black chevron on white
+147|orange|black|rounded orange sign, black border
+148|white|red|single chevron
+149|yellow|red|fluorescent yellow-green sign, red chevron
+150|white|red|single chevron
+151|white|black|single black chevron on white
+152|white|red|single chevron
+153|yellow|black|narrow vertical black-yellow marker
+154|orange|black|rounded orange sign
+155|yellow|black|row of black chevrons on yellow
+156|white|red|white board with red chevrons
+157|white|black|row of black chevrons on white
+158|blue|white|blue sign with white chevron (Spain, some regions)
+159|white|red|row of red chevrons
+160|white|red|single chevron
+161|blue|yellow|blue sign with yellow chevron (Sweden)
+162|red|yellow|red sign with yellow chevron (Sweden, newer)
+163|black|white|single chevron
+164|white|black|two black arrows on white
+165|green|red|fluorescent green-yellow sign, red chevron
+166|black|yellow|black-yellow chevron board
+167|orange|black|rounded orange sign
+168|orange|black|rounded orange sign
+169|blue|white|blue sign with white chevron
+170|white|red|single chevron
+171|black|yellow|rounded black sign, amber chevron
+172|black|yellow|rounded black sign, yellow chevron
+173|white|black|row of black chevrons on white
+174|yellow|black|row of black chevrons on yellow
+175|black|white|row of white chevrons, yellow border
+176|red|white|single chevron (Ukraine)
+177|white|red|single chevron
+178|yellow|red|row of red chevrons on yellow
+179|white|black|row of small black chevrons
+180|white|black|row of black chevrons on white
+181|black|white|row of white chevrons, yellow border
+182|yellow|black|rounded yellow sign
+183|white|black|row of black chevrons on white
+184|orange|black|orange sign
+185|orange|black|orange sign
+186|yellow|black|yellow sign (Vietnam)
+187|red|white|red sign with white chevron (Vietnam)

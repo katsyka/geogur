@@ -1,0 +1,288 @@
+# sid | material | shape | top | note
+0|wood|round|crossarm|metal crossarm, many wires
+1|concrete|square|insulators|tapered concrete, street lamp
+2|concrete|square|insulators|tapered concrete
+3|concrete|square|insulators|tall tapered concrete, several insulator brackets, blue tag
+4|concrete|round|insulators|insulators on side brackets
+5|concrete|H-frame|transformer|twin poles with transformer platform
+6|wood|round|crossarm|wooden T crossarm
+7|wood|round|insulators|side-mounted insulators
+8|concrete|round|crossarm|tall grey pole, long crossarm
+9|concrete|round|crossarm|concrete/green-grey pole, short crossarm
+10|metal|I-beam|crossarm|brown steel stobie-style pole (South Australia)
+11|metal|I-beam|crossarm|steel and concrete Stobie pole, two crossarms (South Australia)
+12|wood|A-frame|transformer|wooden frame with transformer (northern Tyrol)
+13|wood|A-frame|insulators|A-frame wooden pole on concrete feet
+14|concrete|round|crossarm|concrete pole, crossarm with insulators
+15|wood|round|insulators|thin wooden pole, small insulators
+16|concrete|square|crossarm|concrete, crowded wires
+17|concrete|square|insulators|concrete, insulator brackets
+18|concrete|square|crossarm|concrete, multiple crossarms
+19|concrete|square|insulators|concrete, tall
+20|concrete|square|insulators|tapered concrete with holes/steps along the pole
+21|concrete|square|insulators|concrete with holes, many service wires
+22|concrete|square|crossarm|tall concrete, bent metal crossarm (V-shaped)
+23|concrete|round|streetlight|concrete pole with streetlight arm
+24|metal|round|insulators|white/grey metal pole, side brackets
+25|wood|round|insulators|thin poles on hillside
+26|wood|round|insulators|thin pole, wires to house
+27|concrete|round|transformer|concrete pole, painted green/blue base
+28|wood|round|crossarm|wooden pole, two crossarms
+29|wood|round|crossarm|wooden pole, short crossarm
+30|concrete|H-frame|crossarm|large concrete ladder-like frame, black-yellow base
+31|metal|round|streetlight|tall steel pole
+32|wood|round|crossarm|wooden pole, T crossarm with pin insulators
+33|wood|round|crossarm|wooden pole, short crossarm
+34|concrete|square|crossarm|Brazilian concrete with crossarm and streetlight
+35|wood|round|crossarm|wooden pole, crossarm
+36|concrete|square|streetlight|concrete pole, painted white base
+37|concrete|round|streetlight|concrete pole
+38|concrete|square|insulators|concrete pole against building
+39|concrete|round|streetlight|concrete pole with lamp, painted white base
+40|concrete|square|insulators|tall concrete, small side brackets
+41|concrete|square|crossarm|concrete, small top crossarm
+42|concrete|square|none|plain concrete pole
+43|concrete|square|none|concrete pole in vegetation
+44|concrete|square|crossarm|concrete, short crossarm
+45|wood|round|none|plain wooden pole
+46|wood|round|crossarm|wooden pole, crossarm and guy wires
+47|wood|round|streetlight|wooden pole, crossarm and streetlight
+48|wood|round|transformer|wooden pole with transformer, yellow guard
+49|concrete|square|insulators|concrete with holes / steps
+50|concrete|round|streetlight|concrete pole with streetlight
+51|concrete|round|crossarm|concrete with multiple crossarms and streetlight
+52|concrete|square|insulators|concrete pole with a row of holes (ladder) all the way up
+53|concrete|round|crossarm|concrete pole, crossarm, many fittings
+54|concrete|round|crossarm|tall concrete pole with crossarm
+55|concrete|round|none|concrete pole on roadside
+56|concrete|round|streetlight|concrete pole with streetlight
+57|concrete|round|none|concrete, blue and orange painted bands
+58|concrete|square|none|pole painted in yellow-red-green bands at the base
+59|concrete|square|crossarm|concrete pole, many crossarms, guy wire
+60|concrete|round|crossarm|tall round concrete pole
+61|wood|round|streetlight|wooden pole with crossarm and lamp
+62|metal|round|none|black metal pole with white-painted base
+63|wood|round|crossarm|tall wooden pole, crossarm
+64|concrete|square|crossarm|concrete, small crossarm
+65|concrete|H-frame|crossarm|double concrete pole joined (A/H-style)
+66|concrete|square|crossarm|concrete, crossarm with three insulators on top
+67|concrete|round|none|concrete, painted yellow base and blue band
+68|concrete|round|none|thick concrete, tangled wires
+69|concrete|round|crossarm|concrete, many wires
+70|concrete|round|streetlight|concrete with streetlight
+71|concrete|square|crossarm|concrete, stacked crossarms
+72|concrete|round|streetlight|concrete with crossarm and lamp
+73|concrete|square|streetlight|concrete with holes (ladder), lamp
+74|wood|A-frame|insulators|wooden pole with diagonal support pole
+75|wood|round|streetlight|wooden pole with lamp
+76|wood|A-frame|crossarm|wooden pole with diagonal support pole
+77|wood|A-frame|crossarm|wooden A-frame pole
+78|wood|round|insulators|wooden pole, vertical insulators
+79|wood|round|crossarm|wooden pole, T crossarm
+80|concrete|round|streetlight|tall concrete with streetlight
+81|wood|round|none|wooden pole with insulated cable
+82|wood|round|none|wooden pole with small blue plate (France: blue marker on wooden poles)
+83|concrete|square|streetlight|concrete with holes, lamp
+84|concrete|square|streetlight|concrete with holes, lamp
+85|concrete|round|none|leaning wooden and concrete poles
+86|wood|round|none|wooden pole, coiled wire
+87|wood|round|insulators|tall wooden pole
+88|concrete|round|streetlight|concrete pole with lamp
+89|concrete|round|none|concrete pole, service wires
+90|concrete|round|crossarm|concrete, crossarm with insulators
+91|concrete|round|insulators|concrete, side insulators
+92|wood|round|insulators|wooden pole with striped base wrap
+93|wood|round|crossarm|wooden pole, T crossarm
+94|wood|round|crossarm|wooden pole, T crossarm, guy wires
+95|concrete|round|crossarm|tall concrete pole, crossarm
+96|metal|lattice|streetlight|lattice mast on rocks
+97|wood|round|crossarm|wooden pole, two crossarms, transformer
+98|concrete|square|insulators|concrete pole, side insulators
+99|metal|round|none|pole painted red at the base
+100|metal|round|none|green-painted pole next to wooden pole
+101|concrete|round|streetlight|concrete with lamp, many wires
+102|metal|H-frame|insulators|tall H-frame with green insulators
+103|concrete|lattice|insulators|tall lattice-like concrete pole with holes (Hungary)
+104|concrete|square|insulators|concrete with holes (Hungarian type)
+105|concrete|A-frame|streetlight|twin concrete poles, lamp
+106|wood|H-frame|crossarm|wooden H-frame on beach
+107|concrete|square|crossarm|concrete, two crossarms
+108|concrete|square|none|concrete poles, painted white/yellow base
+109|concrete|square|crossarm|concrete, V-shaped crossarm
+110|metal|round|none|steel tube pole on concrete base
+111|concrete|H-frame|transformer|twin poles with transformer, painted bands
+112|metal|round|crossarm|green steel pole, crossarm
+113|concrete|round|crossarm|stacked crossarms, lamp
+114|concrete|round|streetlight|concrete pole with lamp
+115|wood|round|crossarm|wooden pole, short crossarm (mainly SW)
+116|wood|H-frame|crossarm|wooden H-frame (mainly south)
+117|wood|round|none|plain wooden pole
+118|concrete|round|crossarm|many crossarms, election poster
+119|metal|lattice|crossarm|metal lattice pole
+120|metal|round|none|pole with black-white bands at the base
+121|concrete|round|crossarm|thin round concrete pole, small top crossarm
+122|concrete|H-frame|crossarm|twin concrete poles joined with brackets
+123|concrete|round|insulators|round concrete pole
+124|concrete|lattice|insulators|concrete ladder-frame pole
+125|concrete|round|none|black-yellow diagonal stripe guard wrapped at the base
+126|concrete|round|none|yellow vertical-striped guard at the base
+127|concrete|round|none|black-yellow diagonal stripe guard (very common in Japan)
+128|concrete|round|none|black-yellow vertical stripe guard at the base
+129|metal|round|insulators|metal pole, white-painted wall behind
+130|metal|lattice|crossarm|tall thin lattice pole
+131|concrete|A-frame|crossarm|leaning twin concrete poles with X-brace
+132|wood|A-frame|crossarm|wooden A-frame structure on concrete stubs
+133|wood|round|crossarm|wooden pole, two crossarms, concrete stub
+134|concrete|A-frame|insulators|pole with diagonal support pole
+135|concrete|round|crossarm|concrete, many wires
+136|metal|round|crossarm|tall white steel pole
+137|concrete|round|streetlight|concrete pole with lamp, white-painted trees
+138|concrete|square|crossarm|concrete, T crossarm, ladder pole beside
+139|concrete|round|insulators|thin concrete pole
+140|wood|round|none|thin wooden pole
+141|wood|round|insulators|wooden pole, two levels of insulators
+142|wood|A-frame|insulators|wooden A-frame
+143|metal|lattice|insulators|metal lattice pole
+144|metal|lattice|streetlight|metal lattice pole
+145|metal|lattice|none|yellow-painted lattice pole by building
+146|wood|round|insulators|tall wooden pole
+147|wood|round|none|leaning wooden pole
+148|wood|round|streetlight|wooden pole with lamp
+149|metal|lattice|crossarm|dark steel pole, two crossarms
+150|metal|A-frame|crossarm|dark steel A-frame
+151|concrete|round|crossarm|tall concrete, short crossarm with three insulators on top
+152|wood|round|crossarm|wooden pole
+153|concrete|round|streetlight|thick concrete with lamp
+154|wood|round|crossarm|dark wooden pole, short crossarm
+155|metal|round|crossarm|thin pole, Y-shaped crossarm
+156|concrete|round|crossarm|concrete, crossarm with green insulators
+157|concrete|round|crossarm|large concrete pole, long crossarm
+158|concrete|round|crossarm|concrete, crossarm with green insulators
+159|concrete|square|streetlight|concrete with holes, lamp
+160|concrete|round|none|concrete pole with small number plate
+161|concrete|round|crossarm|concrete, crossarm, many wires
+162|concrete|round|streetlight|concrete pole with lamp
+163|concrete|round|streetlight|concrete with lamp in jungle
+164|wood|round|none|thin pole in sandy town
+165|concrete|square|none|concrete pole with holes/steps
+166|metal|round|none|metal pole by mud-brick building
+167|wood|round|none|thin wooden pole, coastal road
+168|concrete|round|none|thick concrete pole, decorated shop
+169|concrete|square|crossarm|concrete, crossarm
+170|concrete|round|crossarm|tall concrete, stacked crossarms
+171|metal|round|streetlight|steel pole with lamp
+172|wood|round|insulators|wooden pole, many insulators (rare in NL)
+173|wood|round|crossarm|wooden pole, two crossarms, lamp
+174|concrete|square|crossarm|concrete with holes, two crossarms
+175|concrete|round|crossarm|concrete pole, white-painted base, short crossarm
+176|wood|round|crossarm|dark wooden pole, white band, crossarm
+177|concrete|round|crossarm|concrete, small crossarm
+178|concrete|square|insulators|concrete with holes along the pole
+179|concrete|round|none|concrete pole, wires to house
+180|concrete|square|crossarm|concrete, crossarm with insulators on top
+181|wood|round|streetlight|wooden pole with lamp
+182|metal|round|streetlight|steel lamp post
+183|wood|A-frame|transformer|wooden frame with transformer and cabinet
+184|wood|round|none|wooden pole
+185|wood|H-frame|crossarm|wooden H-frame in desert
+186|wood|H-frame|crossarm|three dark wooden poles with crossarm
+187|concrete|H-frame|crossarm|concrete H-frame in desert
+188|concrete|round|none|concrete pole, jungle road
+189|concrete|round|streetlight|concrete with lamp, yellow-painted base
+190|concrete|square|crossarm|tall concrete pole
+191|concrete|square|insulators|concrete with holes (ladder)
+192|concrete|round|none|concrete pole painted dark green at the base
+193|concrete|square|crossarm|stacked short crossarms
+194|concrete|square|crossarm|stacked angled crossarms, lamp
+195|metal|round|streetlight|curved steel lamp post
+196|concrete|round|crossarm|concrete, crossarm, lamp
+197|concrete|round|none|poles painted with blue, yellow, red, black bands
+198|concrete|round|none|concrete poles with posters, pink paint
+199|wood|round|streetlight|wooden pole with lamp
+200|concrete|lattice|streetlight|Polish concrete pole with holes along its length, lamp
+201|concrete|round|streetlight|round concrete pole, lamp
+202|concrete|square|crossarm|concrete with holes, crossarm
+203|concrete|A-frame|streetlight|twin concrete poles with lamp
+204|concrete|square|streetlight|concrete, lamp
+205|concrete|square|streetlight|Portuguese concrete with holes/steps
+206|concrete|square|streetlight|concrete with holes, lamp
+207|concrete|square|none|concrete with holes up the pole
+208|concrete|square|none|square pole painted orange, grey and blue (Puerto Rico)
+209|concrete|round|streetlight|concrete with lamp
+210|concrete|square|none|square pole painted red/beige
+211|concrete|round|streetlight|concrete with lamp, many cables
+212|concrete|square|streetlight|concrete with lamp, white-painted base
+213|concrete|square|streetlight|concrete with lamp
+214|concrete|round|none|tall round concrete pole
+215|concrete|lattice|crossarm|Russian concrete pole with large oval holes, crossarm
+216|wood|round|crossarm|tall wooden pole, crossarms
+217|concrete|round|crossarm|leaning concrete pole, white-painted base
+218|concrete|round|streetlight|concrete lamp pole
+219|wood|round|none|wooden poles, leaning
+220|wood|round|none|wooden pole, many wires
+221|concrete|round|none|concrete pole
+222|concrete|square|streetlight|concrete with holes, lamp
+223|concrete|round|streetlight|concrete with lamp
+224|concrete|round|transformer|concrete with transformer box
+225|concrete|round|none|thin concrete pole
+226|metal|round|none|tall tapered steel pole
+227|concrete|round|streetlight|concrete with lamp
+228|concrete|square|crossarm|concrete with holes, crossarms
+229|concrete|square|crossarm|concrete, V-crossarm
+230|concrete|round|streetlight|concrete with lamp
+231|concrete|square|crossarm|concrete, crossarm
+232|metal|lattice|streetlight|metal lattice with lamp
+233|concrete|round|streetlight|concrete with lamp
+234|concrete|A-frame|crossarm|twin poles, crossarms
+235|metal|round|none|thin metal pole
+236|concrete|square|crossarm|concrete, crossarm
+237|wood|round|insulators|dark wooden pole
+238|wood|A-frame|crossarm|twin wooden poles, many insulators
+239|wood|A-frame|insulators|wooden A-frame with crossbar
+240|wood|A-frame|crossarm|tall wooden A-frame, long crossarm
+241|wood|round|crossarm|wooden pole, short crossarm
+242|concrete|round|insulators|concrete pole on concrete stubs
+243|metal|round|crossarm|steel pole with three crossarms, white base
+244|metal|round|streetlight|steel pole with lamp
+245|wood|round|crossarm|wooden pole, crossarm
+246|wood|round|insulators|wooden pole, many insulators
+247|concrete|round|none|concrete pole with yellow-black diagonal guard and Korean tag
+248|concrete|square|crossarm|Spanish concrete with holes, many fittings
+249|concrete|square|none|concrete with holes, wooden pole beside
+250|concrete|square|crossarm|concrete, V-shaped crossarm
+251|concrete|square|crossarm|concrete with holes, crossarm
+252|concrete|round|none|concrete pole, jungle
+253|wood|H-frame|crossarm|wooden H-frame, white-banded legs
+254|wood|round|none|dark wooden pole
+255|wood|round|none|wooden pole
+256|wood|round|crossarm|wooden pole, crossarm
+257|wood|round|insulators|wooden pole, vertical insulators
+258|wood|round|insulators|tall wooden pole
+259|concrete|round|streetlight|concrete pole with lamp
+260|metal|round|crossarm|steel pole, crossarm
+261|metal|round|crossarm|steel pole, triangular crossarm
+262|metal|round|none|thin steel pole
+263|concrete|round|none|yellow-black diagonal stripe sleeve with blue tag (Taiwan)
+264|concrete|round|none|yellow-white diagonal stripes painted on pole (Taiwan)
+265|wood|round|none|wooden pole
+266|concrete|square|none|yellow-black diagonal stripes at the base (Thailand)
+267|metal|round|none|black pole with orange-white reflective bands
+268|concrete|round|crossarm|tall concrete, two crossarms, row of poles
+269|concrete|round|none|concrete pole
+270|concrete|round|crossarm|concrete, T crossarm
+271|metal|lattice|streetlight|metal lattice with lamp
+272|metal|lattice|crossarm|rusty narrow lattice pole
+273|concrete|round|streetlight|concrete with lamp
+274|concrete|round|crossarm|concrete, two crossarms
+275|concrete|round|streetlight|concrete with lamp, Soviet-style
+276|concrete|round|streetlight|concrete with lamp
+277|wood|round|insulators|wooden pole, white-painted base
+278|concrete|round|none|concrete pole, white-painted base
+279|wood|round|none|dark wooden pole with yellow warning sign (UK)
+280|wood|round|none|wooden pole with yellow bands at the base (mostly California)
+281|concrete|square|none|concrete pole, painted dark base, number plate
+282|concrete|square|crossarm|concrete with holes, crossarm
+283|concrete|square|crossarm|concrete, Y-crossarm, many fittings
+284|concrete|square|none|concrete pole
+285|concrete|square|crossarm|concrete with holes, crossarm
+286|concrete|square|none|concrete pole with rungs

@@ -1,0 +1,143 @@
+# sid | housing | backplate | note
+0|black|none|dark green-black housing, visors
+1|black|none|green arrow signal
+2|black|none|plain black, no visors
+3|yellow|none|yellow housing with long visors
+4|black|white border|black backplate with white edge, LED
+5|grey|white border|grey backplate with white edge, two lamps
+6|black|none|black with visors
+7|grey|white border|white-bordered backplate
+8|black|none|black with long visors
+9|black|none|black with visors
+10|grey|none|grey housing, narrow
+11|green|none|dark green heads with solar panel
+12|black|black|black backplate
+13|grey|white border|grey backplate with white border
+14|black|black|black backplate
+15|black|none|narrow black
+16|black|white border|white-bordered backplate
+17|black|none|black housing
+18|black|none|black with visors
+19|black|yellow|yellow backplate with black housing
+20|grey|none|horizontal grey housing
+21|black|yellow|yellow backplate
+22|yellow|yellow|tall yellow backplate, four lamps (smaller middle)
+23|black|white border|white-bordered backplate
+24|black|white border|white-bordered backplate, paired lamps
+25|black|none|narrow black
+26|yellow|none|yellow housing
+27|black|none|black with visors
+28|black|none|black housing on blue pole
+29|black|white border|rounded backplate with white border, number on top
+30|black|none|black with long visors
+31|grey|none|grey housing
+32|black|black|black backplate
+33|yellow|none|yellow housing with visors
+34|black|none|weathered black
+35|black|black|black backplate
+36|black|white border|rounded white-bordered backplate
+37|black|none|black with visors, arrow lamp
+38|black|white border|white backplate border with black edge
+39|black|none|black housing, rounded
+40|black|none|black housing, side plate
+41|black|none|black with visors
+42|black|none|pedestrian Ampelmännchen (east German walking man with hat)
+43|black|none|red Ampelmännchen standing man
+44|black|none|black with long visors
+45|black|white border|white-bordered backplate
+46|green|none|dark green housing
+47|black|none|black, no backplate
+48|black|none|black with green arrow
+49|black|white border|rounded white-bordered backplate, green arrow
+50|black|none|black with visors, green arrow
+51|black|none|black with long visors
+52|black|none|black with long visors
+53|black|none|black, several heads
+54|black|none|black housing
+55|grey|none|grey housing
+56|black|white border|white-bordered backplate
+57|grey|none|grey housing
+58|black|white border|white-bordered backplate
+59|black|white border|white-bordered backplate, arrow
+60|green|none|dark green housing with visors
+61|grey|none|vertical grey housing (snowy region)
+62|grey|none|horizontal grey housing, push-button signal plate
+63|black|white border|white-bordered backplate
+64|black|none|black, arrow
+65|black|white border|white-bordered backplate, arrow
+66|black|yellow|yellow backplate
+67|black|none|black with orange countdown timer
+68|black|none|black with long visors
+69|grey|none|grey housing with countdown timer
+70|black|none|black with long visors
+71|black|none|narrow black
+72|black|none|black housing
+73|black|none|black on green pole
+74|grey|white border|rounded white-bordered backplate
+75|black|white border|white-bordered backplate
+76|black|none|black with visors
+77|black|white border|white-bordered backplate
+78|black|none|black, arrow
+79|black|none|black, arrow
+80|black|white border|white-bordered backplate
+81|black|none|black with side plate
+82|black|none|black with visors
+83|black|none|horizontal black
+84|grey|none|horizontal grey
+85|black|none|black housing
+86|black|white border|white-bordered backplate
+87|black|none|horizontal four-lamp black
+88|black|white border|rounded white-bordered backplate, arrow
+89|black|white border|white-bordered backplate
+90|black|white border|rounded white-bordered backplate
+91|black|white border|white-bordered backplate with countdown timer
+92|black|none|black housing
+93|yellow|none|yellow housing
+94|black|none|black with visors
+95|black|white border|white-bordered backplate
+96|black|none|black housing
+97|yellow|white border|yellow housing on black backplate with white border
+98|yellow|none|yellow housing
+99|yellow|none|yellow housing
+100|black|yellow|horizontal on yellow/brown frame
+101|black|black|large black backplate
+102|grey|white border|grey backplate with white border
+103|black|none|black, green arrow
+104|grey|none|grey housing, green arrow
+105|black|black|black backplate
+106|black|white border|white-bordered backplate
+107|black|none|black housing
+108|black|none|black housing
+109|grey|white|grey housing with white backplate
+110|black|none|three LED heads with arrows and red countdown
+111|grey|none|grey housing
+112|black|none|black housing
+113|black|none|black with visors
+114|black|none|black housing
+115|black|none|black with visors
+116|black|none|black with visors
+117|black|white border|rounded white-bordered backplate
+118|black|none|horizontal black
+119|grey|none|light grey housing
+120|grey|white|light grey/white housing
+121|black|white border|white-bordered backplate
+122|black|none|black with visors
+123|grey|none|grey housing
+124|black|white border|white-bordered backplate, arrow
+125|green|none|horizontal dark green, four lamps
+126|black|none|horizontal black
+127|black|none|horizontal black
+128|black|white border|white-bordered backplate, arrow
+129|black|none|black with visors
+130|black|black|black backplate
+131|black|none|horizontal with arrow lamp below
+132|black|none|black housing
+133|black|none|black, arrow
+134|black|white border|white-bordered backplate
+135|black|white border|white-bordered backplate
+136|black|yellow|rounded yellow/cream backplate with black border
+137|black|black|black backplate
+138|yellow|none|yellow housing
+139|black|white border|white-bordered backplate
+140|yellow|none|yellow housing
+141|black|none|black, red countdown digits

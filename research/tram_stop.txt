@@ -1,0 +1,82 @@
+# sid | main colour | symbol | note
+0|yellow|text|yellow station-name plate with grey bottom (Premetro)
+1|red|text|red Tram header on tall timetable post
+2|blue|text|blue wave-shaped name sign on post
+3|red|text|ornate red/white HALTESTELLE DER STRASSENBAHN
+4|yellow|H|yellow circle with green H
+5|red|tram|red STIB top with T logo and stop name
+6|white|text|white De Lijn pole sign with line numbers
+7|white|text|white name plate with blue border
+8|black|text|black overhead name sign with arrow (VLT)
+9|blue|text|tall blue vertical VLT totem with stop name
+10|blue|tram|blue square, white panel, black tram
+11|black|text|black overhead name board with train symbol
+12|blue|text|blue LRT totem with station name
+13|black|text|black name sign with TA logo
+14|blue|S|blue post with yellow-circle S, TRAM
+15|blue|tram|blue/white sign with tram and stop name, line numbers
+16|blue|bus|blue square with white panel, trolley/tram symbol
+17|blue|tram|blue sign with tram and bus symbols, yellow frame
+18|black|text|black name sign
+19|blue|tram|blue sign with white panel and tram, stop name
+20|yellow|tram|yellow HSL tram sign with stop code and line numbers
+21|black|tram|black totem with yellow tram symbol, digital board
+22|grey|text|grey name sign with tram icon and line letter
+23|orange|text|orange/white/yellow tall totem
+24|green|H|green-ringed yellow H on tall pole
+25|white|H|white sign with double green-ringed H
+26|green|text|green-white name sign with tree icon, Greek and Latin
+27|green|tram|green sign with double-deck tram, Chinese and English name
+28|blue|text|dark blue name board, Chinese and English
+29|white|tram|ornate white sign with tram and MM
+30|blue|tram|dark blue/purple square with tram
+31|blue|text|dark blue totem
+32|grey|text|grey wall with GARUDA DEMPO logo
+33|red|text|red/white Luas stop sign, Irish and English name
+34|red|tram|red warning triangle with tram
+35|grey|text|dark grey name sign with red dot, Hebrew/Arabic/English
+36|white|text|white name sign with yellow line
+37|white|tram|white FERMATA sign with red tram icon
+38|green|text|green stop sign with code M8 and kanji name
+39|blue|text|blue vertical totem with kanji
+40|blue|tram|blue sign, white panel with tram, stop name
+41|blue|tram|blue sign with tram, white name plate below
+42|grey|text|grey name board, French and Luxembourgish name
+43|black|text|black overhead name board with line number
+44|grey|text|grey station canopy with name
+45|blue|tram|blue/white GVB pole with tram, zone and lines
+46|blue|tram|blue sign with tram over orange timetable
+47|red|tram|white sign with red border, red tram, Tram Stop and no-parking
+48|grey|text|grey pole with digital display
+49|blue|tram|blue tram sign on shelter with stop letter
+50|blue|tram|blue square, white panel, black tram
+51|grey|text|grey pillar with black stop name
+52|yellow|text|yellow pole with yellow stop flag (Carris)
+53|beige|text|beige tall totem
+54|blue|text|dark blue arched name sign
+55|yellow|text|yellow pole with small red top sign
+56|blue|tram|blue sign, white panel, tram, Cyrillic stop name
+57|blue|tram|blue sign, white panel, tram, line numbers
+58|blue|tram|blue sign, white panel, small tram
+59|green|text|green pole
+60|blue|tram|blue square with tram, name plate below
+61|red|text|red pole with timetable
+62|blue|text|blue/green shelter board with L1 line name
+63|grey|text|steel totem with green top and line map
+64|white|text|white Västtrafik sign, big blue stop letter
+65|black|text|black/grey pole with digital display
+66|white|text|white board with line numbers and destinations
+67|grey|text|grey totem
+68|blue|text|white/blue tall totem with K logo
+69|grey|text|dark grey totem with stop code V03
+70|green|text|green station sign, French and Arabic, Metro
+71|green|text|green direction sign with line numbers, French and Arabic
+72|blue|text|blue name header on orange-wrapped shelter
+73|red|text|red header with stop name and line map
+74|white|tram|white sign with tram, Cyrillic text
+75|blue|tram|blue/white sign with tram, Cyrillic name
+76|grey|text|grey totem with orange tram logo
+77|blue|text|tall blue/grey totem
+78|blue|text|dark blue name board
+79|black|text|black name board on shelter
+80|yellow|tram|yellow pillar with red circle and white tram, black name plate

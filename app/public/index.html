@@ -1,0 +1,245 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GeoGur</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="/app.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='13' fill='none' stroke='%23000' stroke-width='3'/%3E%3Ccircle cx='16' cy='16' r='4' fill='%23000'/%3E%3C/svg%3E">
+</head>
+<body>
+<header class="top">
+  <a class="brand" href="#/outline">
+    <svg viewBox="0 0 32 32" width="20" height="20" aria-hidden="true"><circle cx="16" cy="16" r="13" fill="none" stroke="currentColor" stroke-width="3"/><circle cx="16" cy="16" r="4" fill="currentColor"/></svg>
+    GeoGur
+  </a>
+  <nav class="tabs">
+    <a href="#/search" data-view="search">Locate</a>
+    <a href="#/clues" data-view="clues">Clues</a>
+    <a href="#/sun" data-view="sun">Sun</a>
+    <a href="#/outline" data-view="outline">Outline</a>
+  </nav>
+</header>
+
+<main>
+  <!-- ============ LOCATE ============ -->
+  <section id="view-search" class="view view-search" hidden>
+    <aside class="panel">
+      <div class="builder">
+        <div class="field">
+          <label class="lbl">Region <span class="hint">don't know the country? pick a continent</span></label>
+          <div class="opts" id="set-chips"></div>
+          <div id="region-picked" class="picked" hidden></div>
+          <form id="region-form" class="row">
+            <input id="region-input" type="text" placeholder="Country, region or city" autocomplete="off">
+            <button class="btn ghost" type="submit">Find</button>
+          </form>
+          <ul id="region-results" class="choices" hidden></ul>
+        </div>
+
+        <div class="field">
+          <label class="lbl">Visible together <span class="hint">up to 5 · − + sets how many</span></label>
+          <ol id="feature-list" class="features"></ol>
+          <div class="combo">
+            <input id="feature-input" type="text" placeholder="Add: bus stop, church, Lidl, man_made=water_tower…" autocomplete="off" title="Presets, any brand or name, or raw OSM tags: key=value, key=*, key~regex, key!=value">
+            <ul id="feature-suggest" class="suggest" hidden></ul>
+          </div>
+        </div>
+
+        <div class="field">
+          <label class="lbl">Range <span class="hint" id="radius-out">150 m</span></label>
+          <input id="radius" type="range" min="25" max="500" step="5" value="150">
+        </div>
+
+        <div class="field">
+          <div class="seg" role="radiogroup">
+            <button type="button" data-mode="mutual" class="on">All within range</button>
+            <button type="button" data-mode="anchor">Near anchor</button>
+          </div>
+        </div>
+
+        <button id="search-btn" class="btn primary wide">Search</button>
+        <div id="status" class="status" hidden></div>
+      </div>
+
+      <details id="presets" class="history presets">
+        <summary>Example searches</summary>
+        <ul id="preset-list"></ul>
+      </details>
+
+      <div id="results" class="results"></div>
+
+      <details id="history" class="history" hidden>
+        <summary>Recent searches <a href="#" id="history-clear" class="linkbtn">clear</a></summary>
+        <ul id="history-list"></ul>
+      </details>
+    </aside>
+
+    <div class="mapwrap">
+      <div id="map"></div>
+      <div id="scan" class="scan" hidden>
+        <div class="radar" id="radar"><div class="sweep"></div><i class="ring"></i><i class="ring"></i><i class="ring"></i><b class="core"></b></div>
+        <div class="scan-pill">
+          <span class="spin"></span>
+          <div class="scan-text">
+            <div class="scan-title" id="scan-title">Scanning</div>
+            <div class="scan-feats" id="scan-feats"></div>
+            <div class="scan-prog" id="scan-prog" hidden><div class="track"><i id="scan-bar"></i></div><span id="scan-count"></span></div>
+            <div class="scan-note" id="scan-note"></div>
+          </div>
+          <span class="scan-time" id="scan-time">0:00</span>
+          <button class="btn ghost sm" id="scan-cancel">Cancel</button>
+        </div>
+      </div>
+      <div id="detail" class="detail" hidden></div>
+    </div>
+  </section>
+
+  <!-- ============ CLUES ============ -->
+  <section id="view-clues" class="view view-clues" hidden>
+    <aside class="panel facets" id="facets">
+      <div class="facet-top">
+        <input id="clue-q" type="text" placeholder="Country, .cz, +420, clue…" autocomplete="off">
+        <button class="btn ghost sm" id="facet-reset">Reset</button>
+      </div>
+      <div id="facet-body"></div>
+      <div class="facet-foot">
+        <button class="linkbtn" id="admin-btn">Edit clues</button>
+      </div>
+    </aside>
+    <div class="cl-main">
+      <div class="cl-head">
+        <div class="seg cl-mode" id="cl-mode">
+          <button type="button" data-mode="countries" class="on">Countries</button>
+          <button type="button" data-mode="clues">Clue library</button>
+        </div>
+        <div><span class="big" id="cl-count">–</span> <span class="muted" id="cl-sub">countries</span></div>
+        <div class="active-chips" id="active-chips"></div>
+      </div>
+      <div class="cgrid" id="cgrid"></div>
+      <div id="cdetail" class="cdetail" hidden></div>
+      <div id="editor" class="editor" hidden></div>
+    </div>
+  </section>
+
+  <!-- ============ SUN ============ -->
+  <section id="view-sun" class="view view-sun" hidden>
+    <aside class="panel sun-panel">
+      <div class="builder">
+        <div class="field">
+          <label class="lbl">Sun direction <span class="hint" id="az-out">180°</span></label>
+          <div class="compass-wrap">
+            <svg id="compass" viewBox="-110 -110 220 220" class="compass" aria-label="Click to set the sun's compass bearing"></svg>
+          </div>
+          <div class="row tight">
+            <input id="az" type="number" min="0" max="359" step="1" value="180" class="numin">
+            <span class="muted sm">° from north (clockwise) ±</span>
+            <input id="az-tol" type="number" min="0" max="45" step="1" value="5" class="numin small">
+          </div>
+        </div>
+        <div class="field">
+          <label class="lbl">Sun height <span class="hint" id="h-out">40°</span></label>
+          <div class="seg" id="h-mode">
+            <button type="button" data-m="deg" class="on">Angle</button>
+            <button type="button" data-m="shadow">Shadow length</button>
+          </div>
+          <div class="row tight" id="h-deg">
+            <input id="h" type="number" min="0.5" max="90" step="0.5" value="40" class="numin">
+            <span class="muted sm">° above horizon ±</span>
+            <input id="h-tol" type="number" min="0" max="30" step="0.5" value="5" class="numin small">
+          </div>
+          <div class="row tight" id="h-shadow" hidden>
+            <input id="obj" type="number" min="0.01" step="0.1" value="1" class="numin">
+            <span class="muted sm">object height :</span>
+            <input id="shadow" type="number" min="0.01" step="0.1" value="1.2" class="numin">
+            <span class="muted sm">shadow</span>
+          </div>
+          <p class="help">Shadow method: on flat ground, height of a vertical object (pole, person) vs. the length of its shadow.</p>
+        </div>
+        <div class="field">
+          <label class="lbl">Date</label>
+          <div class="seg" id="date-mode">
+            <button type="button" data-m="exact" class="on">Exact day</button>
+            <button type="button" data-m="month">± 2 weeks</button>
+            <button type="button" data-m="unknown">Unknown</button>
+          </div>
+          <input id="date" type="date" class="date">
+        </div>
+      </div>
+      <div class="sun-out" id="sun-out"></div>
+    </aside>
+    <div class="mapwrap"><div id="sunmap"></div></div>
+  </section>
+
+  <!-- ============ OUTLINE ============ -->
+  <section id="view-outline" class="view page" hidden>
+    <div class="page-inner">
+      <p class="eyebrow">Outline · v0.3</p>
+      <h1>GeoGur</h1>
+      <p class="lead">A precise tool for learning the world. Start from what you can see on a street, such as a shop, a tram stop and a church, and find every real place where those things stand together.</p>
+
+      <div class="testcard">
+        <div>
+          <div class="eyebrow">Test query</div>
+          <div class="tq-title">Lidl + bus stop + church</div>
+          <div class="tq-sub">All within 150 m of each other · Czechia</div>
+        </div>
+        <a class="btn primary" href="#" id="run-test">Run test query →</a>
+      </div>
+
+      <div class="modules">
+        <div class="module">
+          <div class="mod-head"><span class="num">1</span> Locate <span class="badge live">live</span></div>
+          <p>Co-occurrence search. Pick a region (country, city, continent or the visible map area) and 2–5 features: about 170 presets, any brand or name, or any raw OSM tag (<span class="mono">key=value</span>, <span class="mono">key~regex</span>, <span class="mono">key!=value</span>). Then set a range. Results export as CSV or GeoJSON.</p>
+          <ol class="steps">
+            <li>The rarest feature becomes the <b>anchor</b>, which keeps the search fast.</li>
+            <li>OpenStreetMap is searched for anchors that have every other feature within range.</li>
+            <li>Results are ranked by <b>spread</b>, the largest distance between any two of the matched features.</li>
+            <li>Each place shows exact coordinates, pairwise distances, address and OSM IDs, plus <b>Open in Google Maps</b>.</li>
+          </ol>
+        </div>
+        <div class="module">
+          <div class="mod-head"><span class="num">2</span> Clues <span class="badge live">live</span></div>
+          <p>Reverse lookup: tick what you see (driving side, alphabet, special letters, a domain or phone code, plates, road lines, speed units) and the list of 131 countries shrinks. The clue library holds about 2,500 described examples in 13 categories (bollards, poles, bus and tram stops, stop signs, crossing signs, chevrons, railway crossings, traffic lights, plates, street signs, house numbers, post boxes). You can filter by their attributes, and each one links to the exact Street View panorama where it was seen.</p>
+        </div>
+        <div class="module">
+          <div class="mod-head"><span class="num">3</span> Sun <span class="badge live">live</span></div>
+          <p>Sun bearing + sun height (or shadow length) + date → latitude band, drawn on the map. Uses exact solar geometry, with your measurement error carried through.</p>
+        </div>
+      </div>
+
+      <h2>Data</h2>
+      <table class="tbl">
+        <tr><td>Features</td><td>OpenStreetMap via the Overpass API (live). Results are cached on the server.</td></tr>
+        <tr><td>Addresses</td><td>Nominatim reverse geocoding, looked up when you open a result.</td></tr>
+        <tr><td>Verification</td><td>“Open in Google Maps” at exact coordinates (6 decimals ≈ 0.1 m).</td></tr>
+        <tr><td>Next</td><td>An own pre-built index (PostGIS / H3) for fast searches across the whole world.</td></tr>
+      </table>
+
+      <h2>Roadmap</h2>
+      <ol class="roadmap">
+        <li class="done">Outline, query builder, live search, map, Google Maps links</li>
+        <li class="done">Searching animation, region outline</li>
+        <li class="done">Clues: facet filter, country cards, clue editor</li>
+        <li class="done">Sun position tool</li>
+        <li class="done">Clue library: 13 categories, ~2,500 examples with Street View links</li>
+        <li class="done">Search history, example searches, CSV / GeoJSON export</li>
+        <li>Verify clue entries one by one (mark verified date)</li>
+        <li>Own OSM index: whole-world queries in seconds</li>
+        <li>“Same street” and “at an intersection” constraints</li>
+      </ol>
+      <p class="foot">Map data © OpenStreetMap contributors (ODbL).</p>
+    </div>
+  </section>
+</main>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="/app.js"></script>
+<script src="/clues.js"></script>
+<script src="/sun.js"></script>
+</body>
+</html>

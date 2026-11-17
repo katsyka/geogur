@@ -1,0 +1,218 @@
+# sid | main colour | symbol | text/language | note
+0|blue|bus|none|blue sign, white panel with black bus
+1|blue|bus|none|blue sign, white panel with black bus and timetable
+2|white|bus|P|white sign with bus front and P
+3|blue|bus|parada|orange top with stop number, blue bottom with white bus
+4|yellow|bus|none|yellow sign with bus and i symbol (Buenos Aires)
+5|red|text|numbers|red route-number plates (Bahía Blanca)
+6|white|text|numbers|red/white route-number plates (Córdoba)
+7|yellow|bus|STOP|yellow Adelaide Metro stop with stop number
+8|yellow|bus|STOP|tall yellow post with stop number (Adelaide)
+9|blue|bus|none|blue arch-shaped sign with yellow rim (Brisbane)
+10|yellow|H|none|yellow name plate with green-rimmed H circle (countryside Austria)
+11|white|H|none|white sign, yellow circle with green H (Graz)
+12|grey|H|none|grey sign, yellow circle green H (Innsbruck)
+13|red|text|none|Brussels STIB sign, red top, stop name
+14|white|text|numbers|De Lijn sign with coloured line numbers
+15|yellow|text|BUS|TEC yellow sign (Wallonia)
+16|red|text|CITY BUS STOP|red sign with yellow text and Dzongkha script
+17|brown|text|CITY BUS STOP|brown sign with Dzongkha script
+18|green|P|none|green square with white P
+19|white|P|none|white sign with P and bus
+20|green|P|parada|green sign with circled P and "parada"
+21|blue|bus|none|blue sign, white panel with black bus (standard Vienna convention)
+22|blue|bus|none|blue sign with grey bus front
+23|blue|bus|none|blue sign with white bus front
+24|blue|bus|STOP|round blue sign with bus and STOP
+25|brown|bus|none|thin brown/black post with small bus icon (São Paulo)
+26|blue|bus|none|blue sign, white panel black bus
+27|blue|bus|ÔNIBUS|blue sign with bus and ÔNIBUS
+28|blue|bus|none|blue sign, white panel black bus (generic Bulgaria)
+29|blue|bus|numbers|blue sign with red route number (Plovdiv)
+30|blue|bus|numbers|round blue sign with route number
+31|black|bus|numbers|black-and-white plates with bus in circle, route numbers
+32|green|text|BUS|green "T3 BUS" sign
+33|blue|bus|none|blue sign with pedestrian and bus
+34|black|bus|none|dark grey Transantiago sign with stop code (Santiago)
+35|green|bus|PARADA|green sign with bus and PARADA
+36|white|bus|BUS STOP|cream sign with bus front and BUS STOP
+37|blue|bus|none|dark blue sign, white bus
+38|blue|bus|none|blue sign, white panel black bus
+39|blue|bus|none|blue sign, white panel black bus
+40|blue|text|Stajalište autobusa|light-blue sign with white text (Zagreb)
+41|blue|bus|none|blue square frame, white panel with black bus
+42|white|text|B|white sign with large B
+43|white|text|BUSHALTE|white sign "BUSHALTE"
+44|yellow|text|BUSHALTE|yellow-orange sign "BUSHALTE"
+45|blue|bus|Greek|blue top with bus, yellow bottom with Greek stop name
+46|blue|bus|Greek|blue top with bus, yellow name plate
+47|blue|bus|none|blue/white bus sign with orange number plate
+48|blue|bus|none|blue square with white panel and black bus
+49|blue|bus|zastávka info|blue sign, black bus front, stop name and zone below
+50|blue|bus|ZASTÁVKA|round blue rim with bus and ZASTÁVKA
+51|red|text|none|Bornholm: red pole with timetable
+52|yellow|bus|stop name|yellow top with black bus, black bottom with name (Zealand)
+53|yellow|bus|stop name|yellow top with bus, grey and white bands (North Jutland)
+54|blue|bus|PARADA AUTOBUS|blue sign with bus front
+55|green|bus|PARADA OMSA|green sign "PARADA OMSA" with number
+56|blue|bus|PARADA|blue sign, white panel with blue bus front, PARADA
+57|blue|bus|PARADA|blue sign, white bus front, PARADA
+58|blue|bus|none|blue sign, white panel black bus
+59|blue|bus|VEERENNI|blue sign, white panel black bus, Estonian text
+60|blue|bus|none|round blue sign with white bus
+61|blue|bus|none|oval blue sign with three vehicles
+62|yellow|bus|none|yellow rectangle with black bus
+63|yellow|bus|none|yellow sign with black bus
+64|blue|bus|none|blue rectangle with white bus
+65|yellow|bus|none|yellow rectangle with black bus (local traffic)
+66|blue|bus|none|blue rectangle with white bus (long distance)
+67|blue|bus|numbers|blue/white/red HSL sign with route number (Helsinki)
+68|white|text|line codes|white panel with red top, line codes (Lyon TCL)
+69|blue|text|stop name|blue sign with white grid and stop name (Marseille)
+70|blue|text|stop name|white-blue sign with yellow line circles (Montpellier)
+71|blue|bus|Georgian|blue sign, white panel black bus
+72|blue|bus|none|blue sign, white panel black bus
+73|blue|bus|none|blue sign, white panel black bus
+74|white|H|none|yellow circle with green H (Berlin)
+75|white|H|none|tall Berlin stop column with H
+76|white|H|stop name|yellow circle green H with stop name (Bielefeld)
+77|green|bus|none|green sign, white panel with red bus
+78|green|bus|none|green sign, white panel with red bus
+79|white|text|BUS STOP|white sign "BUS STOP"
+80|white|text|ΣΤΑΣΗ|orange-framed Athens OASA sign
+81|blue|text|ΣΤΑΣΗ|blue sign with Greek text and lines (Kavala)
+82|white|bus|ΣΤΑΣΗ|white-blue sign with bus and advertising (Larissa)
+83|yellow|bus|none|yellow sign with black bus
+84|orange|text|stop name|TransMetro station pillar (Guatemala City)
+85|black|text|stop name|black shelter with green stop name (Guatemala City)
+86|blue|bus|PARADA DE BUSES|blue sign with bus front
+87|red|text|numbers|round red KMB sign with route numbers (Hong Kong)
+88|blue|bus|none|dark blue/purple square, white panel black bus
+89|blue|bus|none|blue sign with trolleybus
+90|blue|bus|none|blue rectangle with white bus
+91|blue|bus|S|blue sign with yellow bus and S (Strætó)
+92|white|text|none|white sign with code
+93|blue|bus|none|blue sign, white panel with black/red bus
+94|blue|bus|STOP|blue-framed white sign with bus and STOP
+95|blue|text|stop name|tall TransJakarta-style info pylon
+96|blue|bus|STOP|blue-framed white sign with bus and STOP
+97|red|text|BUS|red-white rounded Bus Éireann sign (Cork)
+98|yellow|text|BUS|round yellow Dublin Bus sign with stop number
+99|red|text|BUS|red-white Bus Éireann sign (Limerick)
+100|white|bus|none|white sign with dark bus, crest on top
+101|white|text|F|white sign with stop letter
+102|white|bus|none|white sign with dark bus
+103|yellow|bus|Hebrew|yellow timetable panel with Hebrew header
+104|blue|bus|FERMATA|blue-framed white sign with bus and FERMATA (Bari)
+105|yellow|bus|FERMATA|grey panel with yellow card (Bergamo)
+106|red|bus|none|dark red TPER pole with bus pictogram (Bologna)
+107|white|bus|バスのりば|white sign with bus and Japanese text
+108|white|text|Japanese|white-blue-yellow Japanese stop plate
+109|green|bus|Arabic|lime-green sign with Arabic text (Amman)
+110|blue|bus|none|blue sign, white rounded panel with black bus
+111|blue|bus|none|blue sign with white bus
+112|blue|bus|none|blue sign, white rounded panel with black bus
+113|blue|bus|Lao + BUS STOP|blue sign with Lao text and BUS STOP
+114|blue|bus|none|blue sign, white panel with black bus
+115|blue|bus|none|blue square frame, white panel black bus
+116|blue|bus|stop name|blue sign with bus and Latvian stop name
+117|blue|bus|none|round blue sign with bus and minibus
+118|blue|text|Bus Stop|blue sign "Bus Stop"
+119|blue|text|Bus Stop|blue sign "Bus Stop"
+120|yellow|text|stop name|lime-yellow LIEmobil sign
+121|red|bus|stop name|red Ortsbus Vaduz sign with white bus
+122|blue|bus|none|blue sign, white rounded panel with black bus
+123|blue|bus|stop name|blue sign with bus and stop name (g. = gatvė)
+124|blue|bus|stop name|blue sign, white panel bus, name above
+125|blue|bus|none|light blue sign, white panel black bus
+126|white|bus|none|white sign with large black bus
+127|white|text|rapidPenang|rapidPenang stop pillar
+128|white|bus|BUS STOP|grey/white sign with bus, BUS STOP, stop names
+129|blue|bus|none|blue sign with white bus front
+130|blue|bus|none|blue sign with white bus
+131|white|text|stop name|white/red panel with stop name
+132|red|text|Monaco|red pole with Monaco bus panel
+133|blue|bus|none|blue sign, white rounded panel black bus
+134|blue|bus|ГОК|blue sign with bus and Cyrillic stop name
+135|blue|bus|none|blue sign, white panel black bus
+136|blue|bus|none|blue sign, white panel black bus
+137|blue|bus|none|dark blue sign, white panel black bus
+138|white|text|timetable|timetable board
+139|blue|bus|BUS STOP|blue sign with bus front, BUS STOP and stop code
+140|yellow|bus|none|yellow panel with blue top and bus (Drenthe, Groningen)
+141|grey|text|stop name|grey R-net pole with digital display and red clock panel
+142|blue|bus|stop name|blue panel with bus and stop number (Friesland, northern Drenthe)
+143|white|bus|Bus Stop|white sign, red bus, no-parking symbol, "Bus Stop"
+144|blue|bus|none|blue sign, white panel black bus
+145|blue|bus|none|blue sign, white panel black bus
+146|blue|bus|none|blue rectangle with white bus
+147|red|bus|Arabic + BUS STOP|red-white Mwasalat pillar
+148|green|bus|none|green sign, white panel with red bus
+149|white|bus|none|white sign with red circle, bus and person
+150|white|bus|none|white sign with red circle, bus and people
+151|white|bus|none|white sign with red circle, bus and boarding person
+152|blue|bus|PARADA|blue sign with bus and PARADA
+153|blue|bus|PARADERO|blue sign with bus and PARADERO
+154|blue|bus|PARADERO|blue sign with bus, PARADERO, SIT logo
+155|blue|bus|PARADERO BUS-AUTO|blue sign with bus and car
+156|blue|bus|none|blue sign, white panel black bus
+157|blue|bus|none|bright blue sign, white panel black bus
+158|blue|bus|PARAGEM|blue sign with bus and PARAGEM
+159|green|bus|PARADA|green sign with bus, PARADA
+160|white|bus|Arabic + Bus STOP|white sign with bus, Arabic and "Bus STOP"
+161|blue|bus|none|dark blue sign, white panel black bus
+162|blue|bus|none|blue sign, white panel black bus
+163|blue|text|CT bus|Cluj CT bus sign (Romania)
+164|blue|bus|none|blue sign, white rounded panel black bus
+165|blue|P|none|blue sign with white P and bus
+166|blue|P|none|blue sign with white P and bus
+167|blue|P|none|blue sign with P and bus
+168|blue|bus|none|blue square with white bus (French type)
+169|grey|text|numbers|grey panel with line number
+170|blue|bus|none|round blue sign with white bus
+171|yellow|text|ARRET MINI BUS|yellow diamond "ARRET MINI BUS"
+172|blue|bus|none|blue sign, white panel black bus
+173|yellow|text|BUS|yellow Belgrade-style stop plate
+174|blue|bus|none|blue sign, white panel black bus
+175|green|bus|none|green-white SBS/LTA stop pole with bus icon
+176|blue|bus|none|blue sign, white panel black bus
+177|blue|bus|ZASTÁVKA|blue sign with bus and line numbers
+178|white|bus|ZASTÁVKA|white DPMK sign with green trolleybus (Košice)
+179|blue|bus|none|blue square frame, white panel black bus
+180|blue|bus|none|blue sign, white panel black bus
+181|blue|bus|R|blue sign with bus, minibus and R
+182|blue|bus|R|blue sign with bus, tram and R
+183|blue|P|none|blue sign with P, bus, minibus and van
+184|green|bus|Korean|green village bus pole (마을버스)
+185|white|text|timetable|white Tranvías Coruña pillar
+186|red|text|line codes|Barcelona TMB stop with line codes (H10)
+187|red|text|Bilbobus|tall thin red/black Bilbobus pole
+188|blue|bus|none|blue sign, white panel black bus
+189|red|text|SL|old SL sign, red top with logo, route numbers
+190|red|text|stop name|Blekingetrafiken sign, red top
+191|blue|text|stop name|blue-top sign with route number
+192|white|bus|Bürgerbus|white sign with bus
+193|white|text|Chinese|white timetable columns
+194|white|text|Chinese|white timetable pole with orange top
+195|white|text|Chinese|pink-white round sign on black-yellow pole
+196|blue|bus|Thai + BUS STOP|blue arched sign with Thai and BUS STOP
+197|blue|bus|Thai + BUS STOP|round blue sign with Thai and BUS STOP
+198|white|text|EGO|white oval EGO sign (Ankara)
+199|white|text|stop name|Antalya bus shelter
+200|orange|text|DURAK|orange arched DURAK sign (Edirne)
+201|blue|bus|none|blue rectangle with white bus
+202|blue|bus|none|blue sign, white rounded panel black bus
+203|white|text|numbers|white panel with route numbers on red pole
+204|white|text|none|white panel on blue pole
+205|green|text|Metro|teal Belfast Metro sign with route number
+206|blue|text|Bus Stop|Network West Midlands blue sign (Birmingham)
+207|red|text|bus stop|Brighton & Hove sign, red top
+208|white|text|numbers|white flag sign with route number (Max Transit)
+209|blue|text|BUS STOP|The Wave oval sign
+210|white|text|BUS STOP|MATS sign
+211|white|bus|Bus Stop|VITRAN sign with round bus logo
+212|blue|bus|PARADA|blue sign with bus and PARADA
+213|blue|bus|numbers|blue sign with bus and route number
+214|blue|bus|ĐIỂM DỪNG XE BUÝT|blue sign with bus and Vietnamese + BUS STOP
+215|blue|text|Vietnamese|blue info panel
+216|yellow|text|stop name|yellow arch with rainbow (Åland)

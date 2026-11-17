@@ -1,0 +1,164 @@
+# sid | background | text | note
+0|white|black|white plate with black border, RRUGA prefix
+1|green|white|green blade
+2|black|white|dark grey plaque with white top band and crest, CARRER
+3|black|yellow|dark plaque with logo, yellow text
+4|blue|white|blue blade with house-number range and arrow
+5|blue|white|dark blue plate with white border, district number
+6|green|white|green plate, district number and name above
+7|white|blue|white enamel plate with blue border, French/Dutch
+8|blue|white|blue enamel plate, RUE / STRAAT, municipality name
+9|red|yellow|maroon arrow-shaped plate, Dzongkha and English
+10|green|white|green arrow-shaped plate, Dzongkha and English
+11|white|black|white plate with black arrow box, house-number range
+12|green|green|green cast plaque, CALLE
+13|green|white|green plate, ULICA
+14|blue|yellow|blue plate with yellow border, Latin and Cyrillic
+15|green|white|green blade with white border
+16|brown|white|brown arrow-shaped plate with white border, RUA
+17|blue|white|blue plate with history text and number range
+18|white|blue|white plate with blue band, Cyrillic and Latin ул./ul.
+19|white|black|old white plate with black border, Cyrillic
+20|blue|white|dark blue plate, Khmer and English Street No.
+21|black|white|black plate with arrow box, number range
+22|black|white|black plate with arrow box
+23|yellow|green|yellow blade with logo
+24|blue|white|blue blade, JALAN
+25|green|white|dark green plate, CL (calle) numbering
+26|white|black|white painted plaque, CARRERA / CALLE numbers
+27|green|white|green plate with municipal logo, AVENIDA number
+28|white|blue|white plate with blue border and crest, AVENIDA
+29|green|yellow|turquoise bilingual Croatian/Italian plates
+30|white|black|white plates with black arrows
+31|blue|white|blue blade with white border
+32|red|white|red enamel plate with white ornamental border (Prague)
+33|white|red|white plate with red border and red text
+34|blue|white|blue blade on post
+35|blue|white|blue/grey blade
+36|green|yellow|green blade, SEOPC
+37|green|white|green blade with ADN crest, CALLE number
+38|green|white|green plate with block numbers
+39|green|white|green plate
+40|blue|white|blue plate, Arabic and English
+41|white|black|white plate with black border
+42|blue|white|blue plate with white border
+43|white|black|white plate with black border
+44|blue|white|blue arrow-shaped sign
+45|green|white|green plate with white border on frame
+46|green|white|green plate
+47|white|black|white plate, Finnish and Swedish
+48|white|black|white blade
+49|blue|white|blue enamel Paris plate with green frame and arrondissement
+50|black|white|black plate with green frame, RUE, former name
+51|black|white|black blade
+52|white|black|white/grey plate
+53|blue|white|blue blade, RD.
+54|blue|white|blue blade
+55|white|black|white plate with black border
+56|black|white|dark blade
+57|white|red|white plate with red text
+58|green|white|green blade, DR suffix
+59|green|white|green blade, ST suffix
+60|white|black|white plate with green crest box, AVENIDA ZONA
+61|white|black|white embossed plaque, AVENIDA
+62|white|black|white plate with district header and number range
+63|white|black|white plate with red border, district, UTCA, number range
+64|red|white|maroon plate with white border
+65|white|blue|white plate with blue text, rounded frame
+66|green|white|green plate under decorative roof, Jl.
+67|blue|white|light blue plate, Irish and English, district number
+68|green|white|green plate, Irish (Gaelic script) and English
+69|white|black|white plate with red logo, English and Manx
+70|white|blue|white enamel with blue border and rounded ends
+71|white|black|white plate, Hebrew and English
+72|blue|white|blue plate, Hebrew and English with description
+73|beige|black|carved stone plaque, VIA
+74|white|black|painted on wall (nizioleto), CALLE
+75|blue|white|blue arrow-shaped plate with route number, Japanese and English
+76|blue|white|blue block plate, Japanese grid address and English
+77|green|white|green blade with logo
+78|blue|white|blue blade
+79|green|white|green plate, Arabic and English, number range
+80|green|white|green plate, Arabic and English, district box
+81|white|black|white blade
+82|green|white|green plate with gold frame, Lao and French RUE
+83|green|white|green plate, Lao and English, double arrow
+84|black|white|dark blue plate, Latvian with Russian below
+85|green|white|green blade
+86|brown|white|brown plate with white border
+87|white|black|white plate
+88|white|blue|white plate with blue frame, crest and logo, French and Luxembourgish
+89|white|black|white plate with grey frame and crest, RUE
+90|white|blue|blue-and-white tile plaque, Chinese and Portuguese
+91|white|blue|blue-and-white tile plaque, Portuguese and Chinese
+92|purple|white|purple arrow sign with postcode, Malay and Jawi
+93|blue|white|blue plate, Jawi and Malay
+94|white|black|white plate, RUE
+95|white|black|white plate with crest, Triq
+96|white|black|white plate with crest, Triq
+97|white|red|white plate, red RUE
+98|blue|white|blue blade, Cyrillic
+99|green|white|green arrow sign, Cyrillic and Latin
+100|blue|white|blue plate, Latin and Cyrillic
+101|blue|white|blue plate with white border, УЛИЦА, Cyrillic
+102|white|black|white blade with black border, ST.
+103|blue|white|blue enamel plate with district name
+104|blue|white|blue plate with white border, STRAAT
+105|blue|white|blue blade with white end panel
+106|blue|white|blue blade with arrows, RD
+107|black|white|black blade, STREET
+108|green|white|green plate with white border, STREET
+109|blue|white|blue plate with crests, УЛИЦА
+110|green|white|green plate, УЛИЦА
+111|blue|white|blue blade, Rd
+112|blue|white|dark blue plate, gate
+113|white|black|white plate, gata
+114|blue|white|blue plate, Arabic and English, street number
+115|green|white|green plate, Arabic and English Way number
+116|blue|white|blue plate, Arabic and English
+117|white|red|white plate with red border, Calle, historic district band
+118|green|white|green plate with white border, ULICA
+119|blue|white|blue blade with red bottom band, district name
+120|white|black|white stone plaque, RUA
+121|black|white|black tile plaque on azulejo wall, RUA
+122|white|black|white tile plaque, PLAZA
+123|black|white|dark plaque with crest, AVE.
+124|blue|white|blue plate, Arabic and English, street and zone number
+125|blue|white|dark blue plate with white border, STR.
+126|blue|white|blue plate with green frame and SECTOR header, Strada
+127|white|black|white plate with black border, KG number ST
+128|beige|black|stone plaque, VIA
+129|white|blue|white plate with blue border, via
+130|blue|white|blue plate with white border, French
+131|white|black|white plate with ornamental border, trilingual
+132|blue|white|dark blue plate, УЛИЦА, Cyrillic
+133|green|white|green blade with rounded ends
+134|white|black|white blade, AVE
+135|white|blue|white plate with red border, blue text, ULICA
+136|white|black|white enamel plate, condensed black text
+137|green|white|dark green plate, ULICA
+138|red|white|red plate, Slovenian and Italian (bilingual area)
+139|white|black|white blade, ST
+140|blue|white|dark navy hexagonal plate, Korean and Latin, number range
+141|blue|white|dark navy plate with arrow and distance, Korean and Latin
+142|white|blue|white/blue tile plaque with crest, CALLE
+143|white|black|individual letter tiles on wall
+144|white|black|white plate, Sinhala, Tamil and English
+145|beige|black|beige plate with crest, Sinhala, English and Tamil
+146|white|black|white plate with house-number range and block name
+147|white|black|white plate with number range below
+148|blue|white|blue plate
+149|green|white|green plate with arrow, Chinese and English
+150|green|white|green plate with section number and number ranges
+151|blue|white|dark blue plate in ornate gold frame, Thai and English, SOI
+152|blue|white|blue plate, Thai and English SOI, green municipality band
+153|blue|white|blue plate with white border, Arabic and French
+154|red|white|red plate, SOKAĞI, number range, district band
+155|blue|white|blue plate with crescent header, CADDESİ, arrows
+156|blue|white|blue blade
+157|blue|white|blue plate, big street number, Arabic and English
+158|blue|white|blue plate, Arabic and English, STREET number
+159|green|white|green blade with logo panel (new)
+160|green|white|green blade with logo panel (old)
+161|green|white|dark green plate with white border
+162|blue|white|blue plate, ĐƯỜNG

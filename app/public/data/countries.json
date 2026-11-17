@@ -1,0 +1,2289 @@
+{
+ "countries": [
+  {
+   "iso": "AD",
+   "name": "Andorra",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+376",
+   "nanp": null,
+   "tld": ".ad",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àèéíïòóúüç",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "AL",
+   "name": "Albania",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+355",
+   "nanp": null,
+   "tld": ".al",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "çë",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "AT",
+   "name": "Austria",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+43",
+   "nanp": null,
+   "tld": ".at",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äöüß",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "BA",
+   "name": "Bosnia and Herzegovina",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+387",
+   "nanp": null,
+   "tld": ".ba",
+   "scripts": [
+    "Latin",
+    "Cyrillic"
+   ],
+   "letters": "čćđšžђћџљњј",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "BE",
+   "name": "Belgium",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+32",
+   "nanp": null,
+   "tld": ".be",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "éèêëçàï",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "BG",
+   "name": "Bulgaria",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+359",
+   "nanp": null,
+   "tld": ".bg",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "ъьйщ",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "BY",
+   "name": "Belarus",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+375",
+   "nanp": null,
+   "tld": ".by",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "іўыэё",
+   "facts": []
+  },
+  {
+   "iso": "CH",
+   "name": "Switzerland",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+41",
+   "nanp": null,
+   "tld": ".ch",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äöüéèàç",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "CY",
+   "name": "Cyprus",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+357",
+   "nanp": null,
+   "tld": ".cy",
+   "scripts": [
+    "Greek",
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "CZ",
+   "name": "Czechia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+420",
+   "nanp": null,
+   "tld": ".cz",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áčďéěíňóřšťúůýž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "DE",
+   "name": "Germany",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+49",
+   "nanp": null,
+   "tld": ".de",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äöüß",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "DK",
+   "name": "Denmark",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+45",
+   "nanp": null,
+   "tld": ".dk",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "æøå",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "EE",
+   "name": "Estonia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+372",
+   "nanp": null,
+   "tld": ".ee",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "õäöüšž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "ES",
+   "name": "Spain",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+34",
+   "nanp": null,
+   "tld": ".es",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúüç",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "FI",
+   "name": "Finland",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+358",
+   "nanp": null,
+   "tld": ".fi",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äöå",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "FO",
+   "name": "Faroe Islands",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+298",
+   "nanp": null,
+   "tld": ".fo",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áðíóúýæø",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "FR",
+   "name": "France",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+33",
+   "nanp": null,
+   "tld": ".fr",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "GB",
+   "name": "United Kingdom",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+44",
+   "nanp": null,
+   "tld": ".uk",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ŵŷ",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_yellow_rear",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "GI",
+   "name": "Gibraltar",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+350",
+   "nanp": null,
+   "tld": ".gi",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "GR",
+   "name": "Greece",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+30",
+   "nanp": null,
+   "tld": ".gr",
+   "scripts": [
+    "Greek"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "HR",
+   "name": "Croatia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+385",
+   "nanp": null,
+   "tld": ".hr",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "čćđšž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "HU",
+   "name": "Hungary",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+36",
+   "nanp": null,
+   "tld": ".hu",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áéíóöőúüű",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "IE",
+   "name": "Ireland",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+353",
+   "nanp": null,
+   "tld": ".ie",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áéíóú",
+   "facts": [
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "IM",
+   "name": "Isle of Man",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+44",
+   "nanp": null,
+   "tld": ".im",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_yellow_rear",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "IS",
+   "name": "Iceland",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+354",
+   "nanp": null,
+   "tld": ".is",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áðéíóúýþæö",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "IT",
+   "name": "Italy",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+39",
+   "nanp": null,
+   "tld": ".it",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àèéìòù",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "JE",
+   "name": "Jersey",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+44",
+   "nanp": null,
+   "tld": ".je",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite",
+    "plate_yellow_rear",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "LI",
+   "name": "Liechtenstein",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+423",
+   "nanp": null,
+   "tld": ".li",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äöü",
+   "facts": [
+    "line_whiteWhite",
+    "plate_black"
+   ]
+  },
+  {
+   "iso": "LT",
+   "name": "Lithuania",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+370",
+   "nanp": null,
+   "tld": ".lt",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ąčęėįšųūž",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "LU",
+   "name": "Luxembourg",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+352",
+   "nanp": null,
+   "tld": ".lu",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "äëéè",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu",
+    "plate_yellow_both"
+   ]
+  },
+  {
+   "iso": "LV",
+   "name": "Latvia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+371",
+   "nanp": null,
+   "tld": ".lv",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "āčēģīķļņšūž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "MC",
+   "name": "Monaco",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+377",
+   "nanp": null,
+   "tld": ".mc",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "ME",
+   "name": "Montenegro",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+382",
+   "nanp": null,
+   "tld": ".me",
+   "scripts": [
+    "Latin",
+    "Cyrillic"
+   ],
+   "letters": "čćđšžśźђћџљњј",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "MK",
+   "name": "North Macedonia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+389",
+   "nanp": null,
+   "tld": ".mk",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "ѓќѕџљњј",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "MT",
+   "name": "Malta",
+   "region": "Europe",
+   "drive": "L",
+   "phone": "+356",
+   "nanp": null,
+   "tld": ".mt",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ċġħżàèìòù",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "NL",
+   "name": "Netherlands",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+31",
+   "nanp": null,
+   "tld": ".nl",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ëïé",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu",
+    "plate_yellow_both"
+   ]
+  },
+  {
+   "iso": "NO",
+   "name": "Norway",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+47",
+   "nanp": null,
+   "tld": ".no",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "æøå",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "PL",
+   "name": "Poland",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+48",
+   "nanp": null,
+   "tld": ".pl",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ąćęłńóśźż",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "PT",
+   "name": "Portugal",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+351",
+   "nanp": null,
+   "tld": ".pt",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ãõçáâàéêíóôú",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "RO",
+   "name": "Romania",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+40",
+   "nanp": null,
+   "tld": ".ro",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ăâîșț",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowYellow",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "RS",
+   "name": "Serbia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+381",
+   "nanp": null,
+   "tld": ".rs",
+   "scripts": [
+    "Cyrillic",
+    "Latin"
+   ],
+   "letters": "čćđšžђћџљњј",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "RU",
+   "name": "Russia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+7",
+   "nanp": null,
+   "tld": ".ru",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "ыэъёй",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "SE",
+   "name": "Sweden",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+46",
+   "nanp": null,
+   "tld": ".se",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "åäö",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "SI",
+   "name": "Slovenia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+386",
+   "nanp": null,
+   "tld": ".si",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "čšž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "SK",
+   "name": "Slovakia",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+421",
+   "nanp": null,
+   "tld": ".sk",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "áäčďéíĺľňóôŕšťúýž",
+   "facts": [
+    "line_whiteWhite",
+    "plate_eu"
+   ]
+  },
+  {
+   "iso": "SM",
+   "name": "San Marino",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+378",
+   "nanp": null,
+   "tld": ".sm",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àèéìòù",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "TR",
+   "name": "Turkey",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+90",
+   "nanp": null,
+   "tld": ".tr",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "çğıöşüâî",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow",
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "UA",
+   "name": "Ukraine",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+380",
+   "nanp": null,
+   "tld": ".ua",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "іїєґ",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "XK",
+   "name": "Kosovo",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+383",
+   "nanp": null,
+   "tld": "",
+   "scripts": [
+    "Latin",
+    "Cyrillic"
+   ],
+   "letters": "çëђћџљњј",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "AX",
+   "name": "Åland",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+358",
+   "nanp": null,
+   "tld": ".ax",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "åäö",
+   "facts": []
+  },
+  {
+   "iso": "SJ",
+   "name": "Svalbard",
+   "region": "Europe",
+   "drive": "R",
+   "phone": "+47",
+   "nanp": null,
+   "tld": ".sj",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "æøå",
+   "facts": []
+  },
+  {
+   "iso": "GE",
+   "name": "Georgia",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+995",
+   "nanp": null,
+   "tld": ".ge",
+   "scripts": [
+    "Georgian",
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "GL",
+   "name": "Greenland",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+299",
+   "nanp": null,
+   "tld": ".gl",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "æøå",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "JP",
+   "name": "Japan",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+81",
+   "nanp": null,
+   "tld": ".jp",
+   "scripts": [
+    "Japanese"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "KR",
+   "name": "South Korea",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+82",
+   "nanp": null,
+   "tld": ".kr",
+   "scripts": [
+    "Hangul"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "TW",
+   "name": "Taiwan",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+886",
+   "nanp": null,
+   "tld": ".tw",
+   "scripts": [
+    "Chinese"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteYellow",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "HK",
+   "name": "Hong Kong",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+852",
+   "nanp": null,
+   "tld": ".hk",
+   "scripts": [
+    "Chinese",
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "MO",
+   "name": "Macau",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+853",
+   "nanp": null,
+   "tld": ".mo",
+   "scripts": [
+    "Chinese",
+    "Latin"
+   ],
+   "letters": "ãçéõ",
+   "facts": []
+  },
+  {
+   "iso": "TH",
+   "name": "Thailand",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+66",
+   "nanp": null,
+   "tld": ".th",
+   "scripts": [
+    "Thai"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "MY",
+   "name": "Malaysia",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+60",
+   "nanp": null,
+   "tld": ".my",
+   "scripts": [
+    "Latin",
+    "Chinese",
+    "Tamil"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_black"
+   ]
+  },
+  {
+   "iso": "SG",
+   "name": "Singapore",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+65",
+   "nanp": null,
+   "tld": ".sg",
+   "scripts": [
+    "Latin",
+    "Chinese",
+    "Tamil"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "ID",
+   "name": "Indonesia",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+62",
+   "nanp": null,
+   "tld": ".id",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "PH",
+   "name": "Philippines",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+63",
+   "nanp": null,
+   "tld": ".ph",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñ",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "KH",
+   "name": "Cambodia",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+855",
+   "nanp": null,
+   "tld": ".kh",
+   "scripts": [
+    "Khmer"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "LA",
+   "name": "Laos",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+856",
+   "nanp": null,
+   "tld": ".la",
+   "scripts": [
+    "Lao"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "VN",
+   "name": "Vietnam",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+84",
+   "nanp": null,
+   "tld": ".vn",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ăâđêôơư",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "IN",
+   "name": "India",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+91",
+   "nanp": null,
+   "tld": ".in",
+   "scripts": [
+    "Devanagari",
+    "Latin",
+    "Bengali",
+    "Tamil"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "BD",
+   "name": "Bangladesh",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+880",
+   "nanp": null,
+   "tld": ".bd",
+   "scripts": [
+    "Bengali"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "LK",
+   "name": "Sri Lanka",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+94",
+   "nanp": null,
+   "tld": ".lk",
+   "scripts": [
+    "Sinhala",
+    "Tamil"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "BT",
+   "name": "Bhutan",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+975",
+   "nanp": null,
+   "tld": ".bt",
+   "scripts": [
+    "Tibetan",
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "NP",
+   "name": "Nepal",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+977",
+   "nanp": null,
+   "tld": ".np",
+   "scripts": [
+    "Devanagari"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "MN",
+   "name": "Mongolia",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+976",
+   "nanp": null,
+   "tld": ".mn",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "өү",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "KZ",
+   "name": "Kazakhstan",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+7",
+   "nanp": null,
+   "tld": ".kz",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "әғқңөұүһі",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "KG",
+   "name": "Kyrgyzstan",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+996",
+   "nanp": null,
+   "tld": ".kg",
+   "scripts": [
+    "Cyrillic"
+   ],
+   "letters": "ңөү",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "IL",
+   "name": "Israel",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+972",
+   "nanp": null,
+   "tld": ".il",
+   "scripts": [
+    "Hebrew",
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite",
+    "plate_yellow_both"
+   ]
+  },
+  {
+   "iso": "PS",
+   "name": "Palestine",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+970",
+   "nanp": null,
+   "tld": ".ps",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "JO",
+   "name": "Jordan",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+962",
+   "nanp": null,
+   "tld": ".jo",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "LB",
+   "name": "Lebanon",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+961",
+   "nanp": null,
+   "tld": ".lb",
+   "scripts": [
+    "Arabic",
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "AE",
+   "name": "United Arab Emirates",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+971",
+   "nanp": null,
+   "tld": ".ae",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "QA",
+   "name": "Qatar",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+974",
+   "nanp": null,
+   "tld": ".qa",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "OM",
+   "name": "Oman",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+968",
+   "nanp": null,
+   "tld": ".om",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "PK",
+   "name": "Pakistan",
+   "region": "Asia",
+   "drive": "L",
+   "phone": "+92",
+   "nanp": null,
+   "tld": ".pk",
+   "scripts": [
+    "Arabic",
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "CN",
+   "name": "China",
+   "region": "Asia",
+   "drive": "R",
+   "phone": "+86",
+   "nanp": null,
+   "tld": ".cn",
+   "scripts": [
+    "Chinese"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "ZA",
+   "name": "South Africa",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+27",
+   "nanp": null,
+   "tld": ".za",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "êëôï",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "LS",
+   "name": "Lesotho",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+266",
+   "nanp": null,
+   "tld": ".ls",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "SZ",
+   "name": "Eswatini",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+268",
+   "nanp": null,
+   "tld": ".sz",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "BW",
+   "name": "Botswana",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+267",
+   "nanp": null,
+   "tld": ".bw",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_yellowWhite",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "NA",
+   "name": "Namibia",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+264",
+   "nanp": null,
+   "tld": ".na",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "êëôï",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "KE",
+   "name": "Kenya",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+254",
+   "nanp": null,
+   "tld": ".ke",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "UG",
+   "name": "Uganda",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+256",
+   "nanp": null,
+   "tld": ".ug",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "TZ",
+   "name": "Tanzania",
+   "region": "Africa",
+   "drive": "L",
+   "phone": "+255",
+   "nanp": null,
+   "tld": ".tz",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "RW",
+   "name": "Rwanda",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+250",
+   "nanp": null,
+   "tld": ".rw",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "plate_yellow_rear"
+   ]
+  },
+  {
+   "iso": "GH",
+   "name": "Ghana",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+233",
+   "nanp": null,
+   "tld": ".gh",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ɛɔ",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "NG",
+   "name": "Nigeria",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+234",
+   "nanp": null,
+   "tld": ".ng",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ẹọṣ",
+   "facts": [
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "SN",
+   "name": "Senegal",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+221",
+   "nanp": null,
+   "tld": ".sn",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "ML",
+   "name": "Mali",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+223",
+   "nanp": null,
+   "tld": ".ml",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": []
+  },
+  {
+   "iso": "TN",
+   "name": "Tunisia",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+216",
+   "nanp": null,
+   "tld": ".tn",
+   "scripts": [
+    "Arabic",
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite",
+    "plate_black"
+   ]
+  },
+  {
+   "iso": "EG",
+   "name": "Egypt",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+20",
+   "nanp": null,
+   "tld": ".eg",
+   "scripts": [
+    "Arabic"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "MG",
+   "name": "Madagascar",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+261",
+   "nanp": null,
+   "tld": ".mg",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite",
+    "plate_black"
+   ]
+  },
+  {
+   "iso": "RE",
+   "name": "Réunion",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+262",
+   "nanp": null,
+   "tld": ".re",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "ST",
+   "name": "São Tomé and Príncipe",
+   "region": "Africa",
+   "drive": "R",
+   "phone": "+239",
+   "nanp": null,
+   "tld": ".st",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ãõçáâàéêíóôú",
+   "facts": [
+    "line_whiteWhite",
+    "plate_black"
+   ]
+  },
+  {
+   "iso": "US",
+   "name": "United States",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "many",
+   "tld": ".us",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteYellow",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "CA",
+   "name": "Canada",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "many",
+   "tld": ".ca",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "éèêàçëïôûù",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "MX",
+   "name": "Mexico",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+52",
+   "nanp": null,
+   "tld": ".mx",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowWhite"
+   ]
+  },
+  {
+   "iso": "GT",
+   "name": "Guatemala",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+502",
+   "nanp": null,
+   "tld": ".gt",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "CR",
+   "name": "Costa Rica",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+506",
+   "nanp": null,
+   "tld": ".cr",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "PA",
+   "name": "Panama",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+507",
+   "nanp": null,
+   "tld": ".pa",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "DO",
+   "name": "Dominican Republic",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "809, 829, 849",
+   "tld": ".do",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "PR",
+   "name": "Puerto Rico",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "787, 939",
+   "tld": ".pr",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "VI",
+   "name": "U.S. Virgin Islands",
+   "region": "Americas",
+   "drive": "L",
+   "phone": "+1",
+   "nanp": "340",
+   "tld": ".vi",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "BM",
+   "name": "Bermuda",
+   "region": "Americas",
+   "drive": "L",
+   "phone": "+1",
+   "nanp": "441",
+   "tld": ".bm",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "CW",
+   "name": "Curaçao",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+599",
+   "nanp": null,
+   "tld": ".cw",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "èòùü",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "PM",
+   "name": "Saint Pierre and Miquelon",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+508",
+   "nanp": null,
+   "tld": ".pm",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "àâæçéèêëîïôœùûüÿ",
+   "facts": []
+  },
+  {
+   "iso": "FK",
+   "name": "Falkland Islands",
+   "region": "Americas",
+   "drive": "L",
+   "phone": "+500",
+   "nanp": null,
+   "tld": ".fk",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "CO",
+   "name": "Colombia",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+57",
+   "nanp": null,
+   "tld": ".co",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow",
+    "plate_yellow_both"
+   ]
+  },
+  {
+   "iso": "EC",
+   "name": "Ecuador",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+593",
+   "nanp": null,
+   "tld": ".ec",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "PE",
+   "name": "Peru",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+51",
+   "nanp": null,
+   "tld": ".pe",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "BO",
+   "name": "Bolivia",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+591",
+   "nanp": null,
+   "tld": ".bo",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow"
+   ]
+  },
+  {
+   "iso": "CL",
+   "name": "Chile",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+56",
+   "nanp": null,
+   "tld": ".cl",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "AR",
+   "name": "Argentina",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+54",
+   "nanp": null,
+   "tld": ".ar",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow",
+    "plate_mercosur"
+   ]
+  },
+  {
+   "iso": "UY",
+   "name": "Uruguay",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+598",
+   "nanp": null,
+   "tld": ".uy",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "plate_mercosur"
+   ]
+  },
+  {
+   "iso": "PY",
+   "name": "Paraguay",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+595",
+   "nanp": null,
+   "tld": ".py",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ñáéíóúü",
+   "facts": [
+    "line_whiteYellow",
+    "plate_mercosur"
+   ]
+  },
+  {
+   "iso": "BR",
+   "name": "Brazil",
+   "region": "Americas",
+   "drive": "R",
+   "phone": "+55",
+   "nanp": null,
+   "tld": ".br",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "ãõçáâàéêíóôú",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteYellow",
+    "line_yellowYellow",
+    "plate_mercosur"
+   ]
+  },
+  {
+   "iso": "AU",
+   "name": "Australia",
+   "region": "Oceania",
+   "drive": "L",
+   "phone": "+61",
+   "nanp": null,
+   "tld": ".au",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite",
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "NZ",
+   "name": "New Zealand",
+   "region": "Oceania",
+   "drive": "L",
+   "phone": "+64",
+   "nanp": null,
+   "tld": ".nz",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "āēīōū",
+   "facts": [
+    "line_whiteWhite",
+    "line_whiteWhiteYellow",
+    "line_whiteYellow",
+    "line_yellowWhite",
+    "line_yellowYellow"
+   ]
+  },
+  {
+   "iso": "CX",
+   "name": "Christmas Island",
+   "region": "Oceania",
+   "drive": "L",
+   "phone": "+61",
+   "nanp": null,
+   "tld": ".cx",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": [
+    "line_whiteWhite"
+   ]
+  },
+  {
+   "iso": "CC",
+   "name": "Cocos (Keeling) Islands",
+   "region": "Oceania",
+   "drive": "L",
+   "phone": "+61",
+   "nanp": null,
+   "tld": ".cc",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "PN",
+   "name": "Pitcairn Islands",
+   "region": "Oceania",
+   "drive": "L",
+   "phone": "+64",
+   "nanp": null,
+   "tld": ".pn",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "",
+   "facts": []
+  },
+  {
+   "iso": "AS",
+   "name": "American Samoa",
+   "region": "Oceania",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "684",
+   "tld": ".as",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "āēīōū",
+   "facts": [
+    "line_whiteYellow",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "GU",
+   "name": "Guam",
+   "region": "Oceania",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "671",
+   "tld": ".gu",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "åñ",
+   "facts": [
+    "line_whiteYellow",
+    "speed_mph"
+   ]
+  },
+  {
+   "iso": "MP",
+   "name": "Northern Mariana Islands",
+   "region": "Oceania",
+   "drive": "R",
+   "phone": "+1",
+   "nanp": "670",
+   "tld": ".mp",
+   "scripts": [
+    "Latin"
+   ],
+   "letters": "åñ",
+   "facts": [
+    "line_whiteYellow",
+    "speed_mph"
+   ]
+  }
+ ],
+ "facts": {
+  "plate_eu": {
+   "label": "Blue EU strip on plates",
+   "group": "Plates",
+   "strength": "strong",
+   "note": "Standard on EU member-state plates. Several non-EU countries use a similar blue strip with their own flag (e.g. Ukraine, Serbia, Turkey, Albania, Norway), so check the strip for the EU stars."
+  },
+  "plate_mercosur": {
+   "label": "Mercosur plates (blue top band)",
+   "group": "Plates",
+   "strength": "strong",
+   "note": "White plate with a blue band across the top naming the country."
+  },
+  "plate_yellow_both": {
+   "label": "Yellow plates, front and rear",
+   "group": "Plates",
+   "strength": "strong",
+   "note": "Private cars. Colombia: yellow plates with black letters."
+  },
+  "plate_yellow_rear": {
+   "label": "White front plate, yellow rear plate",
+   "group": "Plates",
+   "strength": "strong",
+   "note": "Cyprus: 2004-2013 plates; current plates are white front and rear. Singapore: black plates are also common."
+  },
+  "plate_black": {
+   "label": "Black plates, white characters",
+   "group": "Plates",
+   "strength": "strong",
+   "note": "Also on older plates elsewhere: Indonesia (2011-2022), Argentina (1995-2016)."
+  },
+  "speed_mph": {
+   "label": "Speed limits in mph",
+   "group": "Roads",
+   "strength": "strong",
+   "note": "Puerto Rico: speed in mph but distances in km. Gibraltar and Bermuda use km/h."
+  },
+  "line_whiteWhite": {
+   "label": "White edge, white centre",
+   "group": "Road lines",
+   "strength": "common",
+   "note": "Seen in at least part of the country."
+  },
+  "line_yellowWhite": {
+   "label": "Yellow edge, white centre",
+   "group": "Road lines",
+   "strength": "common",
+   "note": "Seen in at least part of the country."
+  },
+  "line_whiteYellow": {
+   "label": "White edge, yellow centre",
+   "group": "Road lines",
+   "strength": "common",
+   "note": "Seen in at least part of the country."
+  },
+  "line_yellowYellow": {
+   "label": "Yellow edge, yellow centre",
+   "group": "Road lines",
+   "strength": "common",
+   "note": "Seen in at least part of the country."
+  },
+  "line_whiteWhiteYellow": {
+   "label": "White edge, white and yellow centre",
+   "group": "Road lines",
+   "strength": "common",
+   "note": "Seen in at least part of the country."
+  }
+ },
+ "note": "Country list ≈ places with official Google Street View coverage (approximate)."
+}

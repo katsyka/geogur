@@ -1,0 +1,162 @@
+# sid | shape | colour | note
+0|saltire|red outline|narrow tall X, red outline on white, small triangle below
+1|saltire|red outline|narrow tall X, red outline on white
+2|saltire|red outline|wide X, red outline on white
+3|double saltire|red outline|wide double X (multiple tracks)
+4|saltire|black text|white X with RAILWAY CROSSING text on red rectangular plate
+5|saltire|black text|white X with RAILWAY CROSSING text
+6|saltire|red outline|tall narrow X, red outline with pointed ends
+7|double saltire|red outline|tall double X joined in middle
+8|triangle|red-white|red-bordered triangle with Bengali text, plate with track symbol below
+9|triangle|red-white|red-bordered triangle with Bengali text, plate with track symbol below
+10|saltire|red-white striped|red/white checkered blocks with black edge
+11|double saltire|red-white striped|red/white checkered blocks, V above X
+12|saltire|yellow-black|yellow X with black FERROCARRIL text
+13|diamond|yellow-black|yellow diamond with X and FERROCARRIL, 2 VIAS
+14|saltire|red outline|wide X, red outline
+15|double saltire|red outline|wide X with chevron below (multiple tracks)
+16|saltire|yellow-black|yellow X with black stripes
+17|saltire|yellow-black|yellow X with black stripes and T-shaped plate below
+18|double saltire|red-white striped|red/white striped double X, СПРИ! plate below
+19|double saltire|red-white striped|red/white striped double X
+20|saltire|red-white striped|red/white diagonal stripes
+21|diamond|yellow-black|yellow diamond with black gate/fence symbol
+22|saltire|red outline|square-ended X, red outline
+23|saltire|white|white X crossbuck above STOP sign and track-count plate
+24|saltire|yellow-black|yellow X with black FERROCARRIL text
+25|saltire|yellow-black|yellow X with FERROCARRIL, yellow 2 VÍAS plate below
+26|saltire|yellow-black|darker yellow X with FERROCARRIL text
+27|saltire|black-white|old: black and white striped X
+28|saltire|red-white striped|wide X with red edge stripes
+29|saltire|yellow with red outline|yellow/orange X with red outline
+30|saltire|red-white striped|white X with red block ends
+31|saltire|red outline|wide X, red outline
+32|double saltire|red outline|wide X with chevron below
+33|saltire|red-white striped|red centre band on white X
+34|double saltire|red-white striped|red centre band on white X, chevron below
+35|saltire|yellow-black|orange/yellow X: CRUCE DE FERROCARRIL
+36|diamond|yellow-black|orange diamond with crossbuck and signal lights symbol
+37|saltire|red outline|wide X, red outline
+38|double saltire|red outline|wide X with chevron below
+39|saltire|red outline|wide X, red outline
+40|double saltire|red outline|wide X with chevron below
+41|saltire|yellow with red outline|yellow X with red outline
+42|double saltire|yellow with red outline|yellow X with red outline, chevron below
+43|saltire|red-white striped|red/white striped X on grey backing
+44|triangle|red-white|old: red triangle with black gate symbol
+45|saltire|red outline|wide X, red outline
+46|double saltire|red outline|wide X with chevron below
+47|saltire|red-white striped|white X with red ends and red lightning bolt (electrified)
+48|triangle|red-white|red triangle with modern train symbol
+49|saltire|red-white striped|white X with red block ends
+50|triangle|red-white|red triangle with steam locomotive
+51|saltire|yellow with red outline|yellow X with red outline
+52|saltire|red outline|wide X, red outline
+53|saltire|red outline|tall narrow X, double red outline
+54|double saltire|red outline|tall narrow double X
+55|triangle|red-white|red triangle with black gate symbol
+56|triangle|red-white|red triangle with black gate symbol, real photo
+57|saltire|yellow with red outline|yellow/orange X on yellow-black pole
+58|double saltire|yellow with red outline|orange X with red outline, horn speaker
+59|diamond|yellow-black|yellow diamond with signal light and steam train
+60|diamond|yellow-black|yellow diamond with black gate symbol
+61|saltire|red outline|wide X, red outline with pointed ends
+62|double saltire|red outline|weathered double X, real photo
+63|saltire|red outline|wide X with pointed ends
+64|double saltire|red outline|double X joined in middle (multi-track)
+65|saltire|red outline|wide X, red outline
+66|triangle|red-white|red triangle with black gate symbol
+67|saltire|yellow-black|yellow and black striped X (Japanese crossbuck)
+68|diamond|yellow-black|orange-yellow diamond with tram symbol
+69|triangle|red-white|red triangle with gate symbol, real photo
+70|triangle|red-white|red triangle with track symbol, real photo
+71|saltire|red outline|wide X, red outline
+72|double saltire|red outline|wide X with chevron below
+73|saltire|red outline|white X with red outline, real photo
+74|double saltire|red outline|real photo
+75|saltire|red-white striped|grey/white X with red ends under STOP
+76|triangle|red-white|red triangle with steam locomotive
+77|saltire|red outline|wide X, red outline
+78|double saltire|red outline|wide X with chevron below
+79|saltire|red outline|thick crimson outline with black edge
+80|double saltire|red outline|thick crimson outline, chevron below
+81|saltire|red outline|wide X, red outline
+82|double saltire|red outline|real photo, under stop sign
+83|saltire|red outline|tall narrow X
+84|double saltire|red outline|double X joined in middle (multi-track)
+85|saltire|red outline|wide X, red outline
+86|double saltire|red outline|wide X with chevron below
+87|saltire|red outline|real photo
+88|double saltire|red outline|real photo
+89|saltire|red-white striped|white X with red block ends
+90|saltire|yellow-black|tan/yellow X with black centre on yellow-black pole
+91|saltire|white|white X with black CRUCE DE FERROCARRIL text
+92|saltire|white|white X with black CRUCE DE FERROCARRIL text
+93|saltire|red outline|wide X, red outline
+94|saltire|red-white striped|red/white striped X with reflectors
+95|saltire|yellow-red striped|yellow/red striped X
+96|double saltire|yellow-red striped|yellow/red striped X, real photo
+97|saltire|red outline|wide X, red outline
+98|double saltire|red outline|wide X with chevron below
+99|saltire|red-white striped|white X with red ends
+100|double saltire|red-white striped|white X with red ends, real photo
+101|saltire|black text|white X: RAILWAY CROSSING
+102|saltire|black text|white X: RAILWAY CROSSING on red rectangular plate
+103|saltire|black text|white X: RAILWAY CROSSING, real photo
+104|saltire|yellow-black|yellow X: RAILWAY CROSSING
+105|saltire|yellow-red striped|yellow/red striped X above triangle
+106|double saltire|yellow-red striped|yellow/red striped double X
+107|saltire|red-white striped|white X with long red ends
+108|double saltire|red-white striped|white X with long red ends, chevron below
+109|saltire|black text|white X: RAILROAD / FERROCARRIL with black border
+110|diamond|white|white diamond with black track symbol
+111|saltire|yellow-black|yellow X: PARE CRUCE FERROCARRIL, 1 VIA plate
+112|saltire|yellow-black|yellow X: PARE CRUCE FERROCARRIL, 2 VIAS plate
+113|saltire|yellow-black|yellow X: RAILROAD CROSSING
+114|saltire|yellow-black|yellow X: RAILROAD CROSSING, weathered
+115|saltire|red-white striped|white X with red/white blocks, black edge
+116|double saltire|red-white striped|red/white blocks, chevron below
+117|saltire|red outline|wide X, red outline
+118|saltire|yellow with red outline|yellow X with red outline, above STOP
+119|saltire|red-white striped|tall X with red/white stripes and twin red lights
+120|double saltire|red-white striped|tall double X with red/white stripes and twin red lights
+121|saltire|red outline|wide X, red outline
+122|double saltire|red outline|wide X with chevron below
+123|saltire|red-white striped|red/white striped X on grey rectangular plate
+124|double saltire|red-white striped|red/white striped double X on grey rectangular plate
+125|saltire|red outline|thin wide X, red outline
+126|double saltire|red outline|thin wide X with chevron below
+127|saltire|red outline|red outline X on grey rectangular plate with black border
+128|double saltire|red outline|double X on grey rectangular plate
+129|saltire|red outline|grey/white X with red outline, yellow-framed box below
+130|double saltire|red outline|grey/white double X with red outline
+131|saltire|red outline|wide X, red outline
+132|double saltire|red outline|wide X with chevron below
+133|saltire|yellow-black|yellow and black striped X with Korean text 멈춤
+134|triangle|yellow with red outline|yellow triangle, red border, steam locomotive
+135|saltire|red outline|wide X, red outline
+136|double saltire|red outline|wide X with chevron below
+137|saltire|red-white striped|white X with orange-red ends
+138|saltire|red-white striped|white X with dark red centre band
+139|saltire|yellow-red striped|red and yellow X with grey centre post (electrified)
+140|double saltire|yellow-red striped|red and yellow double X with grey centre
+141|saltire|red outline|tall narrow X
+142|triangle|red-white|red triangle with black gate symbol
+143|saltire|yellow-black|yellow X with black blocks
+144|saltire|white|white X with thin red edge, real photo
+145|saltire|white|white X with black Thai text
+146|diamond|yellow-black|yellow diamond with black gate symbol
+147|saltire|red-white striped|red/white striped X on grey rectangular plate
+148|saltire|red-white striped|red/white diagonal stripes on dark plate
+149|saltire|red outline|wide X, red outline
+150|double saltire|red outline|wide X with chevron below
+151|saltire|black text|white X: RAILWAY CROSSING, STOP / DANGER plate above
+152|saltire|black text|white X: RAILWAY CROSSING with red text
+153|saltire|red outline|wide X, red outline
+154|double saltire|red outline|wide X with chevron below
+155|saltire|red outline|thick crimson outline, short arms
+156|triangle|red-white|red triangle with black gate symbol
+157|saltire|black text|white X: RAILROAD CROSSING, 1 TRACKS plate
+158|saltire|black text|white X: RAILROAD CROSSING, 2 TRACKS plate
+159|saltire|black text|white X: CUIDADO TRENES with black border
+160|saltire|yellow-black|yellow X: CUIDADO TRENES

@@ -1,0 +1,231 @@
+# sid | colour | form | note
+0|yellow|wall|yellow wall box
+1|blue|standing|blue USPS drop box with rounded top on legs
+2|grey|wall|built-in steel boxes with French La Poste and Spanish Correos logos
+3|yellow|wall|yellow French-style box with La Poste bird logo
+4|yellow|wall|yellow Correos box with crown and horn logo
+5|red|standing|red box on black legs, CORREO ARGENTINO
+6|red|pillar|red cylindrical pillar box with black base
+7|red|wall|red-orange CORREO ARGENTINO in wall
+8|red|standing|red Australia Post box with yellow Express Post box beside it
+9|red|pillar|red hexagonal pillar with white P logo
+10|red|pillar|ornate red pillar box, rounded top
+11|yellow|wall|yellow box, pale
+12|yellow|wall|yellow box with red top band
+13|yellow|wall|yellow box with Post.at text
+14|red|pillar|red pillar box, weathered
+15|red|pillar|several pillars: red, yellow, blue in a row
+16|red|wall|red and white curved bpost box
+17|red|wall|red-orange square bpost box
+18|red|wall|red bpost box with white logo
+19|red|pillar|red pillar box with GR crown cipher
+20|red|wall|red wall box set in stone wall
+21|red|pillar|red pillar box, rounded cap
+22|red|pillar|red pillar box, LETTER BOX text
+23|yellow|standing|yellow rounded Correios box with white panel
+24|yellow|wall|yellow box with post horn, ПОЩА
+25|yellow|wall|yellow box with post horn
+26|yellow|wall|yellow box on short post with post horn
+27|yellow|wall|yellow box
+28|red|pedestal|pink-red box on concrete pedestal
+29|red|wall|red arched wall box
+30|red|standing|red Canada Post box with patterned wrap
+31|red|standing|red Canada Post box on grey ribbed base
+32|black|standing|brown/gold UPS drop box (courier)
+33|red|wall|red box with angled top
+34|beige|pillar|beige/cream cylindrical pillar
+35|red|pillar|red cylindrical CORREOS CHILE pillar
+36|red|standing|red Australia Post box
+37|red|pillar|red pillar with black base (British style)
+38|yellow|wall|yellow Pošta box with horn logo
+39|yellow|standing|yellow box on post with horn logo
+40|yellow|standing|yellow tall box
+41|red|pedestal|small red box on thin red post
+42|red|standing|dark red box
+43|yellow|pillar|yellow pillar box with black base (Cyprus Post)
+44|yellow|pillar|yellow pillar box with black base, post horn, LETTER BOX
+45|orange|wall|row of orange slots in wall
+46|orange|wall|orange and blue twin boxes with envelope symbols
+47|red|wall|red rounded-top box with crown and horn, POST
+48|grey|wall|grey wall box
+49|white|wall|white wall box
+50|yellow|wall|yellow BUZÓN / MAILBOX, CORREOS DEL ECUADOR
+51|brown|pedestal|wooden barrel box with roof (Galápagos post barrel)
+52|green|wall|green rounded-top box (old)
+53|orange|wall|orange box with blue top, EESTI POST horn
+54|red|wall|dark red box
+55|red|pillar|red pillar box
+56|blue|wall|blue rounded-top box, Posta
+57|blue|wall|blue box with Posta logo
+58|yellow|standing|yellow box with purple circle, Posti
+59|orange|pedestal|orange box with blue circle on post
+60|orange|standing|orange/beige Posti box
+61|yellow|wall|yellow La Poste wall box
+62|yellow|standing|twin yellow La Poste boxes
+63|grey|wall|grey steel box with yellow La Poste logo set in brick
+64|blue|standing|blue CITIPOST box (private, central and northern Germany)
+65|yellow|standing|yellow Deutsche Post box
+66|yellow|standing|yellow narrow Deutsche Post box with horn
+67|grey|wall|grey/white wall box
+68|red|standing|red POST BOX
+69|red|pillar|red pillar box with GR cipher
+70|red|pillar|red cylindrical pillar on black base
+71|yellow|standing|yellow ΕΛΤΑ Post box with red express box
+72|yellow|wall|orange-yellow ΕΛΤΑ Post box
+73|yellow|wall|yellow ΕΛΤΑ box
+74|red|wall|red rounded-top POST GREENLAND box
+75|blue|standing|blue USPS drop box on legs
+76|blue|standing|blue USPS drop box on legs
+77|green|standing|green Hongkong Post box
+78|green|wall|green double-slot box, Hongkong Post
+79|green|wall|green box set in white pillar
+80|red|pedestal|red box on ornate black post
+81|red|pedestal|red box on ornate black post with lamp top
+82|red|wall|red rounded-top PÓSTURINN box
+83|red|pillar|red cylindrical pillar, Hindi text
+84|red|wall|red box with yellow India Post logo
+85|red|pillar|large red LETTER BOX drum with India Post logo
+86|orange|pillar|orange-red square tapered pillar
+87|orange|pillar|orange square pillar with round holes
+88|brown|pillar|brown-orange square pillar
+89|green|pillar|green pillar box with black base
+90|green|standing|light green twin boxes on legs
+91|green|standing|green twin boxes
+92|red|pillar|red pillar box with black base
+93|red|wall|red box set in white pillar, EIIR cipher
+94|red|standing|twin red boxes
+95|red|standing|red rectangular box on base
+96|red|pedestal|small red box on red post
+97|red|standing|red double-tube box
+98|red|wall|red POSTE box with two slots
+99|red|wall|red POSTE box
+100|blue|wall|blue box beside red one (blue = priority / abroad)
+101|red|pedestal|red Japan Post box on black post, 〒 mark
+102|red|pedestal|red double-slot Japan Post box on grey pedestal
+103|red|standing|red Japan Post box, 〒 mark
+104|red|pillar|red pillar box with black base
+105|red|wall|red wall box set in stone pillar
+106|yellow|wall|yellow wall box
+107|yellow|pedestal|pale yellow box on post
+108|white|pedestal|cream-white box on post
+109|blue|pedestal|blue Kazpost box on post
+110|blue|wall|blue Kazpost wall box
+111|red|wall|dark red POSTA box with Posta Kenya logo
+112|red|standing|red LETTER box, COAST
+113|yellow|wall|yellow wall box
+114|blue|wall|blue box with white ПОЧТА text
+115|blue|pedestal|blue box with ПОЧТА text on post
+116|beige|pedestal|beige box with pagoda roof on post, Lao Post
+117|beige|pillar|beige square pillar with BOITES AUX LETTRES
+118|yellow|wall|yellow box with blue PASTS top
+119|yellow|pedestal|yellow Liechtensteinische Post box with white logo
+120|yellow|standing|yellow box
+121|yellow|wall|yellow box with LIETUVOS PAŠTAS horn
+122|yellow|standing|yellow tall Post Luxembourg box
+123|yellow|standing|yellow tall box
+124|yellow|pedestal|yellow box with blue label on post
+125|red|pillar|dark red kiosk with pagoda roof, CORREIO
+126|red|pedestal|red box with pagoda top on red post
+127|red|standing|large red Correios de Macau kiosk
+128|red|pillar|red pillar box with black base, crown cipher
+129|red|standing|red POS MALAYSIA box with brass plates
+130|yellow|standing|yellow POS Ekspres box between red boxes
+131|red|pedestal|red box on red post
+132|red|pillar|red pillar box
+133|red|standing|red box with black top, Local / Foreign slots
+134|green|wall|pale green box
+135|green|wall|light green box with Correos de México logo
+136|pink|wall|pink box
+137|red|wall|red box
+138|red|standing|red box with grey panel
+139|red|pedestal|red box on red post
+140|blue|wall|teal-blue box
+141|blue|standing|blue tall box, indoor
+142|yellow|wall|yellow wall box
+143|red|pedestal|red-orange double rounded box on post
+144|orange|standing|orange PostNL double box on legs
+145|orange|wall|orange-red PostNL box
+146|red|pedestal|red box on post
+147|red|standing|red and white NZ Post Standard box
+148|red|standing|red and white NZ Post box, Standard and Fast
+149|red|standing|red and grey NZ Post box
+150|brown|pillar|rusty brown pillar box
+151|green|wall|olive green wall box
+152|yellow|wall|yellow box with post horn
+153|grey|wall|letter slot in wall, ПИСМА
+154|red|wall|red Posten box
+155|blue|pedestal|blue box on grey post
+156|red|pedestal|red box on post
+157|black|pillar|dark grey square pillar, BUZON
+158|red|pillar|red square pillar
+159|blue|wall|blue box with yellow lower panel
+160|red|wall|red POCZTA box
+161|red|standing|red POCZTA box on short legs
+162|red|pillar|red-brown pillar box with black base
+163|red|pillar|red pillar box with black base, CTT
+164|blue|pillar|blue pillar box with black base (CTT priority mail)
+165|blue|standing|blue USPS drop box on legs
+166|red|standing|red Poșta Română box with RO logo, rounded top
+167|red|wall|red Poșta Română box
+168|blue|wall|blue ПОЧТА РОССИИ box with white eagle
+169|red|wall|red ПОЧТА РОССИИ box with white eagle
+170|blue|wall|blue ПОЧТА РОССИИ box with yellow sticker
+171|white|wall|white POSTE box with San Marino crest
+172|blue|pillar|blue La Poste pillar
+173|yellow|wall|yellow wall box
+174|red|pillar|dark red ornate square pillar with gold crests
+175|red|pillar|dark red ornate square pillar on stone base
+176|white|standing|white SingPost box
+177|white|standing|white SingPost box with 165 years art
+178|white|standing|white SingPost box with blue stripes at base
+179|yellow|wall|yellow-orange box in blue frame
+180|yellow|wall|yellow box in blue frame
+181|orange|wall|orange POŠTA box in grey frame
+182|yellow|pillar|yellow cylindrical pillar with horn, POŠTA
+183|yellow|wall|yellow box with black post horn
+184|red|standing|red rectangular box
+185|red|pillar|brown-red ornate pillar with crown cipher
+186|red|wall|red arched wall box
+187|red|pedestal|red 우편 POST box on pedestal
+188|red|standing|red 우편 POST box
+189|yellow|pillar|yellow cylindrical CORREOS pillar
+190|green|standing|green Correos box (express)
+191|yellow|wall|golden ornate Correos lion-head box in wall
+192|red|pillar|red square pillar
+193|red|pillar|red pillar box with black base
+194|red|pillar|half red half green pillar box
+195|red|standing|red rounded-top POST box (Longyearbyen)
+196|yellow|pedestal|grey and yellow PostNord box
+197|yellow|pedestal|yellow PostNord box (local)
+198|blue|pedestal|light blue PostNord box (regional / A-post)
+199|yellow|wall|yellow Swiss Post box
+200|yellow|wall|yellow Swiss Post wall box
+201|white|wall|white letterbox bank with Swiss Post P logo
+202|red|pillar|dark red pillar
+203|green|standing|green double-slot Chunghwa Post box (normal mail)
+204|red|standing|red double-slot Chunghwa Post box (air / prompt delivery)
+205|green|standing|green box carried by owl statue
+206|red|pillar|red pillar box with white curved stripe on black base
+207|red|wall|red Thailand Post box with white stripe
+208|yellow|pedestal|yellow box on yellow post
+209|yellow|pedestal|yellow box on yellow post
+210|yellow|wall|yellow wall box
+211|yellow|pedestal|yellow PTT box with pointed roof on post
+212|white|wall|cream PTT box with roof
+213|green|standing|green double box
+214|red|pedestal|red POST LETTERS HERE box
+215|yellow|wall|yellow УКРПОШТА box with blue band
+216|beige|pedestal|beige box on blue post
+217|yellow|wall|yellow box
+218|red|wall|red Emirates Post rounded-top box
+219|red|pillar|red Royal Mail pillar box with black base
+220|gold|pillar|gold-painted pillar box (2012 Olympic gold medal)
+221|red|standing|red Royal Mail Parcel Postbox
+222|blue|standing|blue USPS drop box on legs
+223|green|standing|olive green USPS relay / storage box
+224|green|standing|dark green USPS relay box
+225|blue|standing|blue USPS drop box on legs
+226|yellow|pillar|yellow square ornate pillar
+227|orange|wall|orange-yellow box
+228|orange|pedestal|orange Vietnam Post box on pedestal
+229|yellow|pedestal|golden-yellow Vietnam Post box on pedestal

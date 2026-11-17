@@ -1,0 +1,233 @@
+# sid | shape | colour | note
+0|square|blue|blue square, white triangle, walker on zebra stripes
+1|triangle|red|red-bordered warning triangle, walker on stripes
+2|diamond|yellow|yellow diamond, walker between lines (US style)
+3|diamond|yellow|yellow diamond, walker
+4|square|blue|blue square, white triangle, walker on stripes
+5|square|blue|dark blue square, white triangle
+6|triangle|red|red-bordered triangle, small walker, stripes
+7|triangle|red|red-bordered triangle, walker on dashed crossing
+8|circle|yellow-green|round fluorescent sign with walking legs (Australia)
+9|diamond|yellow-green|fluorescent diamond with arrow and legs (Australia)
+10|square|blue|blue square, white triangle, walker with hat, dashed lines (Austria)
+11|square|blue|walker with hat, dashed lines (Austria)
+12|square|blue|light blue square, walker on dashed lines
+13|triangle|red|walker on dashed lines
+14|square|blue|walker on zebra stripes
+15|square|blue|walker on zebra stripes
+16|square|blue|blue square, white triangle, walker, dashed lines (Belgium)
+17|triangle|red|walker on dashed lines
+18|triangle|red|walker on dashed lines
+19|triangle|red|walker in traditional dress (gho) on stripes (Bhutan)
+20|triangle|red|walker with hat on stripes
+21|diamond|yellow|yellow diamond, walker on vertical stripes
+22|triangle|red|walker on zebra stripes
+23|square|blue|walker on zebra stripes
+24|square|blue|walker on zebra stripes
+25|triangle|red|red triangle with blue interior and white walker (southern Africa)
+26|triangle|red|walker on zebra stripes
+27|rectangle|blue|tall blue sign with yellow diamond and arrow (Brazil)
+28|rectangle|blue|tall blue sign with white diamond and arrow (Brazil)
+29|square|blue|walker with hat on zebra stripes
+30|square|blue|walker on zebra stripes
+31|square|blue|dark navy square, walker on dashes
+32|diamond|yellow|yellow diamond, walker on dashes
+33|rectangle|white|white rectangle, black walker over line (Canada)
+34|rectangle|white|white rectangle, black walker over line (Canada)
+35|diamond|yellow|yellow diamond, walker on zebra stripes
+36|diamond|yellow|yellow diamond, walker
+37|circle|yellow|round yellow sign with walking legs
+38|diamond|yellow-green|fluorescent diamond, walker between lines
+39|diamond|yellow-green|fluorescent diamond, walker
+40|diamond|yellow|yellow diamond, walker between lines
+41|diamond|yellow|yellow diamond, walker
+42|triangle|red|walker on zebra stripes
+43|square|blue|walker on zebra stripes
+44|square|blue|walker on zebra stripes
+45|triangle|red|walker on zebra stripes
+46|square|blue|walker on dashed lines
+47|triangle|red|small triangle with Greek/English "Humped Crossing" plate
+48|square|blue|walker with hat on zebra stripes (Czechia)
+49|triangle|red|walker on stripes
+50|square|blue|walker on zebra stripes
+51|square|blue|walker on zebra stripes
+52|diamond|yellow|yellow diamond, walker
+53|diamond|yellow|yellow diamond, walker
+54|diamond|yellow|yellow diamond, walker, "PASO PEATONAL"
+55|circle|yellow|round yellow "CRUCE" sign with legs
+56|square|blue|light-blue square, walker on stripes (Estonia)
+57|triangle|red|walker on stripes
+58|triangle|red|walker on zebra stripes
+59|triangle|red|red triangle, blue interior, white walker
+60|square|blue|walker on zebra stripes
+61|square|blue|walker on zebra stripes
+62|square|blue|walker on stripes, blue band at bottom (Finland)
+63|triangle|yellow|red triangle with yellow interior (Finland)
+64|triangle|red|walker on dashed lines (France)
+65|square|blue|walker on zebra stripes
+66|square|blue|walker on zebra stripes
+67|square|blue|walker on zebra stripes
+68|square|blue|walker on zebra stripes
+69|square|blue|walker with hat on zebra stripes (Germany)
+70|square|blue|walker on stripes
+71|triangle|red|walker on lines
+72|other|black|Belisha beacon: black-white pole with amber globe (UK style)
+73|triangle|red|walker on dashed lines
+74|square|blue|walker on dashed lines
+75|triangle|yellow|red triangle with yellow interior (Greece)
+76|square|blue|walker on zebra stripes
+77|triangle|red|walker on zebra stripes
+78|diamond|yellow|yellow diamond, walker
+79|diamond|yellow|yellow diamond, walker, "PED XING"
+80|diamond|yellow|yellow diamond, walker
+81|other|black|Belisha beacon (black-white pole, amber globe)
+82|triangle|red|walker on dashed lines
+83|square|blue|dark blue square, walker on stripes
+84|square|blue|walker carrying a bag on stripes (Hungary)
+85|square|blue|blue square with yellow triangle (Iceland)
+86|square|blue|walker on stripes, blue band at bottom
+87|rectangle|yellow-green|fluorescent sign with diamond and bilingual text (India)
+88|triangle|red|walker on diagonal stripes
+89|square|blue|walker on lines
+90|square|blue|walker on dashed lines
+91|diamond|yellow|yellow diamond, walker on dashed lines
+92|diamond|yellow|yellow diamond with black-white zebra (Ireland)
+93|other|black|Belisha beacon
+94|triangle|red|walker on dashed lines
+95|square|blue|walker with hat on dashed lines
+96|square|blue|walker on stripes
+97|square|blue|walker on zebra stripes
+98|triangle|red|walker on dashes
+99|pentagon|blue|blue pentagon outline with white walker (Japan)
+100|other|black|Belisha beacon
+101|triangle|red|walker on dashed lines
+102|square|blue|walker on stripes
+103|triangle|red|walker on zebra stripes
+104|square|blue|walker on zebra stripes
+105|triangle|red|walker on zebra stripes
+106|triangle|red|walker on zebra stripes
+107|square|blue|walker with hat on dashed lines
+108|square|blue|walker on zebra stripes
+109|square|blue|walker on zebra stripes
+110|triangle|red|walker on zebra stripes
+111|triangle|red|walker on diagonal stripes
+112|triangle|red|walker on diagonal stripes
+113|square|blue|walker on zebra stripes
+114|triangle|red|walker on zebra stripes
+115|triangle|red|walker on zebra stripes
+116|square|blue|walker on zebra stripes
+117|square|blue|walker on zebra stripes
+118|triangle|red|walker on zebra stripes
+119|rectangle|blue|tall blue sign, triangle at top, walker with hat
+120|square|blue|walker on zebra stripes
+121|triangle|red|walker on zebra stripes
+122|square|blue|walker on zebra stripes
+123|square|blue|walker with hat on zebra stripes
+124|square|blue|walker on dashed lines
+125|square|blue|walker with hat on dashed lines
+126|triangle|red|walker on zebra stripes
+127|diamond|yellow|yellow diamond, walker
+128|diamond|yellow|yellow diamond, walker
+129|square|blue|walker on zebra stripes
+130|triangle|red|walker on zebra stripes
+131|diamond|yellow|yellow diamond, walker
+132|square|blue|walker on dashed lines
+133|square|blue|walker on zebra stripes
+134|square|blue|walker on zebra stripes
+135|triangle|red|walker on zebra stripes
+136|square|blue|walker on dashed lines
+137|square|blue|walker on dashed lines
+138|triangle|red|walker on zebra stripes
+139|other|red|yield triangle with red pedestrian plate below (southern Africa)
+140|triangle|red|walker on dashed lines
+141|triangle|red|walker on dashed lines
+142|square|blue|walker on zebra stripes
+143|triangle|red|walker on zebra stripes
+144|other|black|Belisha-style pole with orange disc (New Zealand)
+145|diamond|yellow-green|fluorescent diamond with zebra stripes (NZ)
+146|square|blue|walker on zebra stripes
+147|triangle|red|walker on dashed lines
+148|square|blue|walker on zebra stripes
+149|square|blue|walker on zebra stripes
+150|diamond|yellow-green|fluorescent diamond, walker, "AHEAD" plate (US style)
+151|diamond|yellow-green|fluorescent diamond, walker, arrow plate
+152|square|blue|walker on zebra stripes
+153|square|blue|walker with hat on zebra stripes
+154|triangle|red|walker on dashed lines
+155|rectangle|blue|tall blue sign, walker on lines
+156|triangle|red|walker on zebra stripes
+157|square|blue|walker with hat on stripes
+158|square|blue|walker on zebra stripes
+159|diamond|yellow|yellow diamond, walker
+160|diamond|orange|orange diamond, walker
+161|diamond|yellow|yellow diamond, walker
+162|rectangle|yellow|yellow sign "ATENCION LOMADA CON PASO PEATONAL" with blue inset
+163|diamond|yellow|yellow diamond, walker
+164|circle|yellow-green|round fluorescent sign, walker (Philippines)
+165|pentagon|yellow-green|fluorescent pentagon, walker between lines (school crossing)
+166|other|red|GIVE WAY triangle (no pedestrian sign)
+167|triangle|yellow|red-bordered triangle with yellow-orange interior (Poland)
+168|square|blue|walker over a line (Poland)
+169|square|blue|walker with hat on dashed lines
+170|triangle|red|walker with hat on dashed lines
+171|diamond|yellow|yellow diamond, walker between lines
+172|diamond|yellow-green|fluorescent diamond with arrow plate
+173|triangle|red|walker in long robe (thobe) (Gulf)
+174|other|red|yield triangle with Arabic text and red pedestrian plate in robe (Qatar)
+175|square|blue|walker on zebra stripes
+176|triangle|red|walker on zebra stripes
+177|square|blue|walker on zebra stripes
+178|triangle|red|walker on zebra stripes
+179|square|blue|walker on dashed lines
+180|square|blue|walker on zebra stripes
+181|triangle|red|walker on zebra stripes
+182|triangle|red|walker on zebra stripes
+183|square|blue|walker on zebra stripes
+184|square|blue|walker on zebra stripes
+185|triangle|red|walker on zebra stripes
+186|triangle|red|walker on zebra stripes
+187|square|blue|walker on zebra stripes
+188|square|blue|walker on zebra stripes
+189|square|blue|walker on dashed lines
+190|square|blue|walker on dashed lines
+191|other|black|Belisha beacon with orange bands (Singapore)
+192|square|blue|walker with hat on stripes
+193|triangle|red|walker with hat on stripes
+194|square|blue|walker on zebra stripes
+195|square|blue|walker on dashed lines
+196|other|red|yield triangle with red pedestrian plate below
+197|triangle|red|walker on zebra stripes
+198|pentagon|blue|blue pentagon, white walker, Korean "횡단보도"
+199|pentagon|blue|blue pentagon, white walker, Korean "횡단보도"
+200|square|blue|walker on zebra stripes, blue band at bottom (Spain)
+201|triangle|red|walker without stripes (Spain)
+202|square|blue|walker on dashed lines
+203|diamond|yellow|yellow diamond, walker on lines
+204|triangle|yellow|red triangle with yellow interior (Sweden)
+205|square|blue|walker on stripes, blue band at bottom (Sweden)
+206|rectangle|blue|tall blue sign, triangle at top, walker with hat (Switzerland)
+207|triangle|red|walker with hat on stripes (Switzerland)
+208|square|blue|walker on zebra stripes
+209|triangle|red|walker on zebra stripes
+210|triangle|red|walker with hat on dashed lines
+211|diamond|yellow|yellow diamond, walker between lines
+212|square|blue|walker on zebra stripes
+213|triangle|red|walker on dashed stripes
+214|triangle|red|walker on stripes
+215|other|yellow|yellow post "YAYA GEÇİDİ" (Turkey)
+216|square|blue|walker on zebra stripes
+217|triangle|red|walker on dashed lines
+218|rectangle|blue|tall blue sign, walker on dashed lines
+219|square|blue|walker on zebra stripes
+220|triangle|red|walker on zebra stripes
+221|other|red|yield triangle with red pedestrian plate below
+222|other|black|Belisha beacon
+223|triangle|red|walker on dashed lines
+224|diamond|yellow-green|fluorescent diamond with arrow plate
+225|diamond|yellow-green|fluorescent diamond with "AHEAD" plate
+226|diamond|yellow|yellow diamond, walker between lines
+227|rectangle|yellow|yellow sign "CRUCE PROTEGIDO" with diamond
+228|rectangle|white|white sign, walker on stripes
+229|square|blue|walker on dashed lines
+230|square|blue|walker on dashed lines
+231|square|blue|walker on stripes, blue band at bottom (Åland)

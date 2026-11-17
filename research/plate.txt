@@ -1,0 +1,177 @@
+# sid | background | text colour | left strip | note
+0|white|black|blue|blue strip with AL eagle, EU-style
+1|white|black|red|red strip with black eagle and AL (2002-2011)
+2|picture|black|none|photo of island scene, MOTU O FIAFIAGA
+3|white|blue|none|white with blue text and palm tree, CENTENNIAL 2000
+4|white|black|none|coat of arms left, mountains, AND / PRINCIPAT D'ANDORRA
+5|white|black|blue top|Mercosur: blue top band REPÚBLICA ARGENTINA
+6|black|white|none|black plate with white text, ARGENTINA above (1995-2016)
+7|white|blue|none|blue text, ACT CANBERRA - THE NATION'S CAPITAL
+8|yellow|black|none|yellow-green, NEW SOUTH WALES
+9|white|red|none|red text with red border, N.T. OUTBACK AUSTRALIA
+10|white|black|blue|EU strip A, red/white Vienna crest, red border lines
+11|white|black|none|Bengali script plate, black border
+12|white|red|blue|EU strip B, red text and red border
+13|white|red|none|red text, red border (2008-2010)
+14|white|black|none|plain white, black numbers
+15|red|white|none|red plate with Dzongkha text above BP-2-A
+16|white|blue|none|BOLIVIA in blue, flag top left
+17|white|black|blue|blue strip BIH (not EU), metallic grey look
+18|white|black|none|white front, yellow rear plate
+19|red|white|none|government: red plate, white text
+20|blue|white|none|public service: blue plate
+21|white|black|blue top|Mercosur: blue top band BRASIL
+22|grey|black|none|grey metallic plate with city name (1990-2018)
+23|red|white|none|public transport: red plate
+24|white|black|blue|EU strip BG
+25|white|black|blue|BG strip with Bulgarian flag (2000-2008)
+26|white|blue|none|Khmer text top, PHNOM PENH in red
+27|white|red|none|Alberta: red text, Wild Rose Country
+28|white|blue|none|Beautiful British Columbia, sunset logo
+29|white|black|none|Friendly Manitoba, green landscape bottom
+30|white|black|none|CHILE spaced below, dot separators
+31|yellow|black|none|CHRISTMAS ISLAND, crab logo
+32|white|blue|none|COCOS (KEELING) ISLANDS
+33|yellow|black|none|yellow with black border, city name below
+34|white|blue|none|COSTA RICA top, flag top right, CENTROAMÉRICA bottom
+35|white|red|yellow|commercial: yellow left strip, red numbers
+36|turquoise|blue|none|electric: turquoise plate
+37|white|black|blue|EU strip HR, Croatian checkered crest in middle
+38|white|black|none|crest in middle, no EU strip (1992-2016)
+39|white|black|none|CURAÇAO, flag, coloured houses along bottom
+40|white|black|blue|EU strip CY (2013-present)
+41|white|black|blue|white front, yellow rear (2004-2013)
+42|white|black|blue|EU strip CZ, regional crest stickers
+43|white|black|blue|EU strip DK, red border
+44|yellow|black|blue|commercial: yellow with red border
+45|white|black|blue|semi-commercial: yellow left half
+46|yellow|black|none|pale yellow-green, REP. DOMINICANA
+47|white|black|none|ECUADOR top, grey-white metallic
+48|white|black|none|blue top band EGYPT / مصر, Arabic numerals and letters
+49|white|black|blue|EU strip EST
+50|picture|black|none|yellow/green landscape picture
+51|white|blue|blue|FO strip with Faroese flag, blue text
+52|white|black|blue|EU strip FIN
+53|white|black|blue|EU strip F, blue right strip with department number
+54|white|black|blue|old: white front, yellow rear (2004-2009)
+55|white|black|blue|GE strip with Georgian flag
+56|white|black|blue|EU strip D, registration seals between letters
+57|white|black|none|GH with flag top right, two lines
+58|white|black|blue|white front, yellow rear, GBZ strip
+59|white|black|blue|EU strip GR, seal in middle
+60|white|black|none|plain white, red border lines (no strip)
+61|white|black|none|GUAM U.S.A., red flowers, TANO Y CHAMORRO
+62|white|black|none|GUAM U.S.A., island outline (1994-2009)
+63|white|blue|none|GUATEMALA 2004, CENTRO AMÉRICA
+64|picture|blue|none|GUATEMALA 2004 with Tikal temple picture (2004-2008)
+65|white|black|blue|EU strip H, crest in middle
+66|white|blue|none|IS strip with Icelandic flag, blue text, inspection sticker
+67|white|black|none|IND hologram strip
+68|white|black|blue|IND blue strip with Ashoka chakra
+69|black|white|none|black plate, white text (2011-2022)
+70|white|black|none|white plate, black text (2022-present)
+71|white|black|blue|EU strip IRL, county name above
+72|white|black|red|white front, yellow rear, red GBM strip with triskelion
+73|yellow|black|blue|IL strip, Hebrew/Arabic text
+74|white|black|blue|EU strip I, blue right strip with year
+75|white|black|none|plain white (1994-1999)
+76|white|green|none|green text, Japanese kanji place name
+77|yellow|black|none|kei car: yellow plate, black text
+78|white|black|none|white front, yellow rear, GBJ crest
+79|white|black|none|Arabic الأردن and JORDAN left
+80|white|black|none|KZ flag left, region number in box right (2012-present)
+81|white|black|none|plain white (1994-2012)
+82|white|black|none|white front, yellow rear plate
+83|white|black|blue|RKS blue strip
+84|white|black|none|region box left with flag and KG
+85|white|black|red|red strip with Kyrgyz flag
+86|yellow|black|none|Lao script, yellow plate
+87|white|black|blue|EU strip LV
+88|white|black|blue|blue strip with Arabic لبنان (European standard)
+89|white|black|blue top|blue top band with cedar (North American standard)
+90|white|blue|none|blue hat symbol and LESOTHO left, blue text
+91|black|white|none|black plate, white FL, crest
+92|white|black|blue|EU strip LT
+93|yellow|black|blue|EU strip L, yellow plate
+94|black|white|none|black plate, white text
+95|black|white|none|black plate, white text
+96|white|black|blue|EU strip M
+97|white|blue|none|MC crest, blue text, blue border
+98|white|black|none|Mongolian soyombo symbol left, MNG, Cyrillic letters right
+99|white|black|blue|MNE blue strip, crest in middle
+100|white|black|red|red strip with crest MNE (2003-2007)
+101|yellow|black|none|yellow plate (rear)
+102|white|black|none|small Nepali flag left, province name (2020-present)
+103|red|white|none|red plate with white Devanagari text (before 2020)
+104|yellow|black|blue|EU strip NL, yellow plate
+105|white|black|none|plain white, black border
+106|white|blue|none|LAGOS, green map of Nigeria, FEDERAL REPUBLIC OF NIGERIA
+107|white|black|blue|NMK blue strip, red crest in middle
+108|white|black|none|red border lines, red crest (1993-2012)
+109|white|blue|none|HAFA ADAI, latte stone and star, C.N.M.I.-U.S.A.
+110|white|black|blue|N strip with Norwegian flag
+111|turquoise|black|blue|semi-commercial: green plate
+112|yellow|black|none|yellow plate, Arabic عُمان right
+113|red|white|none|taxi: red plate
+114|white|black|none|AJ&K, green maple leaf left, MIRPUR
+115|white|black|none|BALOCHISTAN top, QUETTA bottom
+116|white|black|none|mosque picture left, ICT - ISLAMABAD
+117|white|black|none|PANAMA top, orange country outline, year below (2007)
+118|white|black|none|PANAMA top, green country outline, year below (2008)
+119|white|black|blue top|Mercosur: blue top band PARAGUAY
+120|white|black|none|PERU with flag top left
+121|white|black|none|beige-white, NCR below
+122|picture|green|none|Rizal monument, MATATAG NA REPUBLIKA (2003-2014)
+123|white|black|blue|EU strip PL
+124|white|black|blue|EU strip P
+125|white|black|blue|EU strip P, yellow right strip with month/year (2005-2020)
+126|picture|black|none|blue sky with flag, SENADO seal
+127|white|black|none|PUERTO RICO DOES IT BETTER, green bottom (2011-2019)
+128|picture|black|none|PUERTO RICO, sentry box picture, ISLA DEL ENCANTO (2008-2011)
+129|white|black|red|maroon strip QATAR, Arabic قطر
+130|blue|white|none|police: blue plate
+131|white|black|blue|EU strip RO
+132|white|black|none|region number box right with RUS flag
+133|white|black|none|white front, yellow rear plate
+134|white|blue|none|San Marino crest left, light blue text
+135|blue|white|none|dark blue plate, white text
+136|white|black|blue|SRB blue strip, crest in middle
+137|white|black|none|plain white, crest between (2003-2010)
+138|white|black|none|white front, yellow rear plate
+139|white|black|blue|EU strip SK, crest in middle
+140|white|black|blue|EU strip SLO, green border
+141|white|black|blue|EU strip SLO, crest in middle (2004-2008)
+142|white|black|none|green border, crest in middle (1992-2004)
+143|picture|black|none|Eastern Cape: elephant picture, EC suffix
+144|picture|black|none|Free State: cheetah picture, FS suffix
+145|white|blue|none|Gauteng: blue text, crest, GP suffix
+146|white|black|none|Korean hangul syllable between numbers
+147|white|black|blue|EU strip E, numbers before letters
+148|white|black|none|white front, yellow-orange rear, Sinhala letters
+149|white|black|blue|EU strip S
+150|white|black|none|black border, blue sticker in middle (1972-2003)
+151|white|black|none|white front; rear has Swiss and canton crests
+152|black|white|none|black plate, STP prefix
+153|white|black|none|plain white, black text
+154|white|black|none|Thai consonants, province name below
+155|black|white|none|black plate, Arabic تونس in middle
+156|white|black|blue|TR blue strip, light blue tinted
+157|white|black|none|white front, yellow rear, Ugandan flag
+158|white|black|blue|UA strip with Ukrainian flag
+159|white|black|blue|UA strip with trident and flag (2004-2015)
+160|yellow|black|blue|public transport: yellow plate, UA strip
+161|white|black|red|Abu Dhabi: red box with number left, Arabic text
+162|white|black|none|Ajman: letter left, Arabic and UAE AJMAN
+163|white|black|none|Dubai: coloured DUBAI logo left
+164|white|black|none|white front, yellow rear, no strip
+165|white|black|blue|white front, yellow rear, blue GB strip
+166|white|black|blue|white front, yellow rear, ENG strip with St George cross
+167|picture|blue|none|Utah: red rock arch picture
+168|white|blue|none|Ohio: red outline heading, Birthplace of Aviation
+169|white|black|none|Wisconsin: America's Dairyland
+170|picture|white|none|blue/orange islands picture, VIRGIN ISLANDS OF THE UNITED STATES
+171|picture|black|none|light blue with fish, America's Caribbean (2006-2016)
+172|white|black|blue top|Mercosur: blue top band URUGUAY
+173|white|black|none|cream-white, crest in middle, URUGUAY below (2000-2015)
+174|white|black|none|plain white, dot separators
+175|white|blue|none|ÅLAND with crest and flag, blue text

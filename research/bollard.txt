@@ -1,0 +1,464 @@
+# sid | body | top band | reflector side A / side B | note
+0|white|black|red/white|flat post
+1|white|black|red/white|black cap, thin red stripe under cap
+2|white|none|red/white|plain white post, red strip
+3|white|black|orange/white|
+4|white|none|red/white|tall flat post, two vertical red strips; white strips on back
+5|white|black|red/white|thin post
+6|green|none|white/white|green cylinder with white bands (urban)
+7|striped|none|red/white|snow pole, green-white striped, red tip
+8|striped|none|none|snow pole, orange-white striped
+9|striped|none|none|snow pole, red-white striped
+10|white|black|orange/white|slanted black top
+11|brown|none|red/yellow|wooden snow pole, red and yellow top segments
+12|white|blue|blue/blue|light-blue band reflector
+13|white|black|none|concrete post, black base
+14|white|black|red/white|
+15|white|none|red/red|large slanted red reflector
+16|grey|black|white/yellow|
+17|grey|black|white/yellow|two round yellow reflectors on back
+18|orange|none|red/white|flat orange-red post
+19|white|none|red/white|round red reflector, km number
+20|blue|none|red/white|blue post
+21|white|none|red/white|thin post
+22|red|none|red/white|red flexible post
+23|white|black|red/white|black band under the red reflector
+24|white|black|red/white|black cap, red strip below cap
+25|white|black|red/white|black cap
+26|white|black|red/white|long red strip
+27|white|black|white/white|round, white dome cap, black band with small white reflectors (urban)
+28|white|black|none|black top block
+29|brown|black|red/white|wooden post with white tip and black band
+30|striped|none|none|round concrete, red-white bands
+31|striped|none|none|round concrete, red-white bands
+32|striped|none|none|round concrete, red-white bands
+33|striped|none|none|round concrete, red and lime-green bands
+34|striped|none|none|round concrete, red-white bands
+35|black|none|none|ornamental black metal bollard (city)
+36|white|none|orange/white|small flat post, orange rectangle
+37|white|none|orange/white|slanted top, orange rectangle
+38|grey|red|none|grey post with red band at top
+39|white|none|orange/white|tall flat post, orange vertical strip
+40|yellow|none|white/white|yellow cylinder with grey reflective bands (urban)
+41|white|black|none|concrete post, dark square top
+42|white|none|yellow/yellow|box bollard with yellow panels and blue keep-left sign
+43|grey|none|none|stone/concrete block
+44|grey|none|none|concrete block, yellow km plate
+45|white|none|none|small whitewashed stones
+46|black|none|red/white|round black post with red and white bands
+47|white|yellow|yellow/yellow|round white concrete with yellow band
+48|white|yellow|none|square concrete post, wide yellow band
+49|white|none|red/white|round white post, red band near top
+50|white|none|red/red|thin post, short red marks
+51|white|none|red/red|thin post, three short red dashes
+52|white|none|red/yellow|thin post, red strip front, yellow-green strip back
+53|other|none|none|pile of yellow-painted stones
+54|white|none|red/red|round post, red band
+55|white|black|red/white|slanted dark top, large rectangular reflector
+56|grey|black|red/white|black cap
+57|white|black|red/white|black parallelogram band with reflector (diagonal ends)
+58|white|black|red/white|black parallelogram band, extra red patch below
+59|white|black|red/white|black parallelogram band
+60|other|none|none|metal post with red-white chevron plate
+61|white|none|red/white|concrete block post
+62|white|black|white/red|thin post, black top
+63|white|black|yellow/red|post on concrete base
+64|striped|none|none|round, black-yellow bands
+65|white|none|yellow/none|yellow-black diagonal stripes
+66|white|black|white/red|slanted top
+67|white|black|white/yellow|slanted black top
+68|white|none|red/white|small flat post, slanted top
+69|white|none|none|flat post
+70|striped|none|none|round, black-white bands (urban)
+71|striped|none|none|grey-white bands (urban)
+72|striped|none|none|yellow-black striped post on railing
+73|white|red|none|concrete post with red top
+74|striped|none|none|square concrete, red-white bands
+75|white|black|none|concrete post, black band
+76|white|red|none|concrete post, red top
+77|white|red|none|concrete post, red top
+78|striped|red|yellow/yellow|square concrete, red-white bands, small yellow reflector
+79|grey|none|none|plain grey/metal post
+80|white|none|red/white|thin metal post
+81|white|none|green/white|thin metal post, green reflector
+82|grey|none|white/white|thin metal post with small square reflector
+83|grey|none|yellow/white|thin metal post, small yellow reflector
+84|brown|none|yellow/none|wooden post, yellow strip
+85|white|black|yellow/white|slanted top
+86|striped|none|none|tall blue-yellow-white snow pole
+87|white|black|yellow/white|two round white reflectors on back
+88|white|black|white/yellow|square black reflector band
+89|striped|none|none|red-white diagonally striped post
+90|blue|none|yellow/yellow|blue thin post with yellow tip and red band
+91|white|none|red/white|
+92|grey|none|red/white|thin post with red sign and arrow
+93|blue|none|red/none|teal-blue square post, round red reflector
+94|white|black|yellow/white|
+95|yellow|none|none|yellow round metal pole (urban)
+96|white|black|red/white|black parallelogram band, slanted top
+97|white|none|red/white|plain flat post, red strip
+98|white|black|red/white|post with red-white striped extension above
+99|striped|none|none|thin red-white striped snow pole
+100|white|black|red/white|black cap, long red strip
+101|white|black|red/red|delineator on guardrail, black band
+102|white|none|red/white|slanted top, small red square
+103|white|black|red/white|black cap, red strip
+104|white|black|orange/white|black band with small orange square, white square on back
+105|white|black|orange/white|black band with orange square
+106|blue|black|orange/white|blue post (protected area / water source zone)
+107|red|black|orange/white|red post
+108|green|none|white/white|green cylinder with white bands (urban)
+109|black|none|yellow/yellow|thin black snow pole with yellow bands
+110|white|red|yellow/white|red stripe on slanted top, km plate
+111|yellow|none|red/red|thin yellow snow pole, red tip
+112|grey|none|none|thin red snow pole
+113|green|red|yellow/white|dark green post, red top stripe
+114|white|red|yellow/white|grey-white post, red top stripe
+115|white|red|yellow/white|red stripe on slanted top
+116|white|none|red/red|thin round post, red bands
+117|white|none|red/red|thin round post, red band
+118|white|none|red/red|thin round post, red band
+119|white|none|red/red|thin round post, red bands
+120|white|none|red/red|round post, red band
+121|white|black|red/white|black diagonal stripes with red reflectors
+122|white|black|white/white|slanted top, black band; two round reflectors on back
+123|white|black|yellow/yellow|black band with yellow reflector; two round yellow on back
+124|white|none|blue/blue|round post, blue vertical strip
+125|red|none|yellow/yellow|short red post with yellow lower part
+126|striped|none|none|tall red-white striped snow pole
+127|brown|none|none|brown pole, tall thin snow poles
+128|yellow|none|white/white|yellow post
+129|white|black|white/white|black band; two round white reflectors on back
+130|red|none|none|thin red snow pole
+131|striped|none|none|thin red-white striped snow pole
+132|white|none|white/white|grey/black post with two round white reflectors on back
+133|white|none|white/white|round white urban bollard with grey bands
+134|white|red|white/white|round white post with wide red band and white dome top
+135|white|grey|white/white|French style: white post, grey band near top
+136|white|red|none|round white post with red top cap (French national road type)
+137|white|black|white/white|black slanted band with white square reflector
+138|black|none|orange/orange|black-orange striped snow pole
+139|white|black|red/white|black slanted top
+140|white|black|red/white|black parallelogram band
+141|white|none|red/white|plain flat post
+142|white|black|red/white|black cap
+143|white|red|none|round post, two red bands
+144|white|black|white/white|German type: black band with white rectangle; two round white reflectors on back
+145|white|black|white/white|with orange-black snow pole extension
+146|white|black|orange/white|black band with orange reflector
+147|white|black|white/white|orange snow pole extension (winter)
+148|white|black|white/white|black band with white rectangle, plain black band on back
+149|white|black|white/white|black band with white rectangle
+150|striped|none|none|round, red-white bands
+151|brown|none|red/white|wooden flat post
+152|striped|none|none|round, red-white bands
+153|striped|none|none|round, yellow-black bands
+154|striped|none|none|square concrete, faded red-white, holes
+155|yellow|none|none|yellow keep-left bollard with blue arrow sign (UK style)
+156|white|black|red/white|slanted black top
+157|striped|none|none|thin red-black striped snow pole
+158|black|yellow|none|black round urban bollard with yellow bands
+159|black|none|yellow/yellow|thin black pole with yellow bands
+160|white|red|red/red|red band, pointed top
+161|grey|none|orange/white|round concrete post
+162|grey|none|red/red|thin metal pole with red top
+163|striped|none|none|red-white striped round post
+164|white|black|none|round white post, black bands
+165|white|none|none|round white post
+166|orange|none|none|orange box bollard with blue keep-left sign and number
+167|yellow|none|none|yellow box bollard with blue keep-left sign and number
+168|white|black|red/white|black band with red reflector, slanted top
+169|white|black|blue/blue|black band with blue reflector
+170|striped|none|none|red-white striped pole with bent top marker
+171|white|black|red/white|concrete-grey post, black cap
+172|yellow|none|red/white|yellow post (temporary/roadworks)
+173|yellow|none|white/white|yellow flat post, slanted top, white diagonal strip
+174|yellow|none|white/white|yellow post, white diagonal stripes
+175|yellow|none|white/white|yellow post, white stripes near top
+176|orange|none|white/white|thin orange snow pole with reflective bands
+177|striped|none|none|black-white bands
+178|black|yellow|red/red|black post with yellow and red bands at top
+179|striped|none|white/white|black-white banded post
+180|striped|none|yellow/yellow|black-yellow-white bands
+181|brown|none|red/yellow|dark post with red, yellow and white bands
+182|white|black|none|short concrete post, black band
+183|striped|none|none|black-white bands, concrete
+184|black|yellow|none|round black post with yellow band
+185|white|none|red/white|small post with red reflector, white on back
+186|striped|none|none|black-white bands, concrete
+187|yellow|red|none|concrete post, yellow top and red band, km number
+188|striped|none|none|square, black-yellow bands
+189|green|none|none|green-white banded round post
+190|green|none|none|green-white banded round post
+191|green|none|none|green-white banded round post
+192|grey|none|none|cable barrier post
+193|grey|none|blue/blue|cable barrier post, blue tip
+194|yellow|none|none|yellow flexible keep-left bollard with blue signs
+195|black|none|red/white|black post with white middle and red/white reflector
+196|blue|none|none|blue cast-iron ornamental bollard
+197|yellow|none|none|yellow keep-left bollard with round blue sign
+198|white|black|none|black diagonal band; two round reflectors on back
+199|white|none|none|grey/white flat post, worn
+200|white|black|white/white|black band; two round reflectors on back
+201|white|black|red/white|Italian type: black slanted top with reflector
+202|white|black|red/white|black slanted top
+203|striped|none|none|yellow-black snow pole
+204|white|black|red/white|post with yellow snow pole extension
+205|striped|none|none|red-yellow-black striped snow pole
+206|white|black|red/white|black top with blue tab
+207|striped|none|orange/orange|red-white pole with round orange reflector on top
+208|striped|none|none|yellow-black striped pole
+209|white|none|orange/orange|round orange reflector on top
+210|striped|none|orange/orange|red-white striped, round orange reflector on top
+211|grey|none|orange/orange|thin metal post, round orange reflector on top
+212|striped|none|orange/orange|black-yellow striped, round orange reflector on top
+213|black|white|red/white|black post with white middle (UK style)
+214|green|none|white/white|green urban bollard, white bands
+215|white|none|yellow/yellow|white box bollard, yellow panel, blue keep-left sign
+216|grey|none|yellow/white|thin metal post, yellow strip
+217|white|none|yellow/red|yellow strip on one side, red on other
+218|white|black|red/white|Russian/CIS type: black diagonal band with reflector
+219|white|black|red/white|black cap
+220|white|black|orange/white|black diagonal band, orange reflector
+221|yellow|none|red/none|yellow post, red strip
+222|white|black|red/white|black square band around reflector
+223|white|none|none|square concrete post, orange-brown top
+224|white|none|red/white|concrete post, red strip
+225|yellow|black|none|round yellow post, black band
+226|black|red|white/white|dark post, red top, white band
+227|black|white|none|round black-white-black post (urban)
+228|yellow|none|none|round yellow metal bollard (urban)
+229|white|black|red/white|black band with red/orange reflector
+230|white|black|orange/white|black band
+231|white|black|red/white|black band
+232|white|black|red/white|black cap
+233|yellow|none|red/red|yellow snow pole with red bands
+234|white|black|none|white post with black diagonal mark
+235|grey|none|none|concrete post
+236|white|none|none|thin white post, black base
+237|white|black|none|white post, small black mark
+238|striped|none|none|square concrete, red-white bands
+239|white|black|none|concrete post, black band
+240|white|black|none|square concrete, black band
+241|white|black|none|square concrete, black band
+242|striped|none|none|black-white bands, pointed top
+243|striped|none|red/yellow|square black-white bands, two round red reflectors
+244|white|black|yellow/yellow|black band with yellow reflector; two round yellow on back
+245|white|black|white/white|black band; two round white on back, km number
+246|white|black|red/white|black band with red reflector, slanted top
+247|striped|none|none|tapered black-white concrete post
+248|white|red|none|round white post, red band
+249|black|none|none|dark round urban bollard
+250|green|red|none|dark green round post, red band
+251|white|black|white/red|black band
+252|striped|none|none|very thin black-white pole
+253|white|black|white/white|Swiss/Austrian round type: black band, white reflector box
+254|striped|none|none|round black-yellow banded urban bollard
+255|white|black|white/white|round, black band; two round white reflectors on back
+256|white|black|red/white|round, black band with side reflector boxes
+257|white|black|blue/white|round, black band, blue side reflector
+258|white|black|white/white|round, black band with side box
+259|white|black|red/white|black slanted top with red reflector
+260|striped|none|none|tapered black-white concrete post
+261|white|black|red/white|black band with reflector (rail side)
+262|white|black|white/white|black band; two round white on back
+263|white|black|red/white|small black band
+264|white|black|white/white|black band; small reflectors
+265|other|none|white/white|white reflective band painted on tree trunk
+266|white|red|none|thin round post, long red top section
+267|white|none|red/white|small square red reflector
+268|striped|none|red/red|black-white banded post with red top reflector
+269|white|none|red/red|thin post, two red marks
+270|white|none|red/white|thin post, small marks
+271|white|black|white/white|black diagonal band and black base
+272|striped|none|none|yellow-black banded post
+273|white|black|red/white|black slanted top
+274|white|black|none|round white post, black base
+275|white|black|none|round white post, black base
+276|white|none|none|round white concrete post
+277|white|yellow|none|round white post, yellow band, black base
+278|white|none|red/red|flat post, small red rectangle
+279|white|black|yellow/white|yellow strip, black base
+280|grey|red|none|metal urban pole, red bands
+281|white|grey|none|round white urban bollard, grey bands
+282|white|red|none|round post, two red bands
+283|white|black|red/white|black slanted top
+284|white|black|red/white|black parallelogram band
+285|white|black|red/white|black cap
+286|white|black|red/white|black parallelogram band
+287|white|none|yellow/red|round-ish post, yellow and red bands near top
+288|other|none|none|red-white chevron plate on metal post
+289|white|none|yellow/yellow|short concrete marker with yellow plate
+290|striped|none|red/red|square concrete, black-grey bands, red top
+291|black|red|none|dark urban bollards with red/white bands
+292|white|none|red/white|flat post, red strip
+293|grey|none|red/white|dark grey/black flat post
+294|white|red|none|round white post, red band, pointed top
+295|grey|red|none|square concrete post, two red lines
+296|black|red|none|large round black bollard, red-white bands (cycle path)
+297|white|none|red/white|thin post, red band
+298|white|none|green/green|thin post, green band
+299|orange|none|white/white|orange snow pole
+300|white|none|red/yellow|red on one side, yellow strip on other
+301|white|none|yellow/white|square white post, yellow strip
+302|yellow|none|white/white|yellow urban post, reflective bands
+303|white|black|red/red|round post, black and red bands
+304|grey|none|red/white|thin post, red strip
+305|white|black|red/white|black parallelogram band
+306|white|none|red/white|thin post
+307|white|black|red/white|black diagonal band
+308|white|black|red/white|black cap
+309|white|black|red/white|black diagonal band; two round white on back
+310|white|black|white/white|Norwegian type: black band, small white reflector; round on back
+311|orange|none|none|tall orange snow pole
+312|grey|none|none|tall metal snow poles
+313|grey|none|red/red|tall curved snow poles with red marker
+314|black|none|white/white|thin black metal post
+315|white|black|white/white|black band, white reflector; small reflectors on back
+316|white|black|red/red|black cap, long red strip
+317|red|none|none|round red post with white base (on plate)
+318|white|none|white/white|thin round white post
+319|white|black|yellow/yellow|round post, yellow top and black band
+320|white|yellow|none|round post, yellow top
+321|white|yellow|none|square post, yellow top
+322|white|none|orange/orange|square concrete post, orange patch
+323|white|none|white/red|square concrete post, red patch on back
+324|white|yellow|yellow/white|grey post, yellow band
+325|striped|none|none|round, yellow-black bands
+326|yellow|none|none|yellow round post / grey round post
+327|white|red|red/red|Polish type: red band, slanted top, km number
+328|grey|none|blue/blue|metal fence post, blue cap
+329|white|red|red/red|red lower half, slanted top
+330|white|red|red/white|large red panel with km number on top
+331|white|red|red/red|wide red band
+332|green|none|none|green-white banded round post
+333|white|black|white/white|black slanted top; two round on back
+334|white|black|orange/white|black slanted band with orange reflector
+335|white|black|white/white|black slanted top
+336|grey|none|red/none|old stone marker with red square
+337|striped|none|none|black-yellow striped snow pole
+338|white|black|white/yellow|black band; yellow reflector on back
+339|white|red|none|thin flexible post, red top
+340|grey|none|red/none|metal fence posts, one with red reflector
+341|white|black|white/red|tall white post, black-framed reflector
+342|white|none|red/white|flat post, small red mark
+343|white|none|none|plain white flat post
+344|striped|none|none|black-yellow banded pole
+345|white|red|red/red|wide red band on lower part, slanted top
+346|white|black|red/white|thin white post with black-framed red reflector
+347|white|black|red/white|black cap
+348|white|black|white/white|black diagonal band
+349|white|black|red/white|black diagonal band
+350|white|black|red/white|thin post, black top
+351|white|black|red/white|black square around reflector
+352|striped|none|none|round, red-white bands
+353|other|none|none|red-white chevron plate on metal post
+354|white|red|none|round concrete, red band
+355|brown|white|none|wooden post, white band
+356|white|none|none|small white-painted stones
+357|black|none|none|thin black metal urban posts
+358|white|black|red/white|black cap
+359|striped|none|none|black-yellow striped snow pole
+360|white|black|orange/orange|black rounded top with orange reflector
+361|white|black|orange/white|black top, long orange strip
+362|white|black|red/white|black rounded top
+363|white|red|none|round post, red band, pointed top
+364|white|none|red/red|thin post on concrete base, red mark
+365|white|black|white/white|black top
+366|other|none|none|post painted in green-yellow-red flag colours with star
+367|white|grey|none|round post, grey band
+368|white|black|white/white|black square band, slanted
+369|white|black|red/white|black cap
+370|white|black|red/white|black diagonal band
+371|white|black|red/white|black cap
+372|striped|none|none|red-yellow striped snow pole
+373|grey|none|none|grey bollard with yellow-black chevron panel
+374|white|black|white/white|black diagonal bands; two round on back
+375|striped|none|none|round, black-yellow bands (urban)
+376|white|black|orange/white|Czech/Slovak type: black band with orange square
+377|white|black|orange/white|black band with orange square
+378|yellow|black|orange/white|guardrail delineator, yellow top
+379|yellow|none|none|yellow keep-right bollard with blue sign
+380|blue|black|blue/blue|blue guardrail delineator
+381|white|black|red/white|black band
+382|white|black|red/white|black cap, red strip
+383|striped|none|none|red-yellow snow pole
+384|white|black|red/white|Slovenian type: black cap, red strip
+385|white|black|red/white|black cap, blue side reflector
+386|white|black|red/white|with orange snow pole extension, blue side reflector
+387|white|black|red/white|with orange snow pole extension
+388|other|none|none|red-white chevron plate on post
+389|white|none|yellow/red|square concrete post, yellow patch / red patch
+390|white|yellow|yellow/yellow|round grey-white post, yellow bands
+391|white|none|white/orange|thin post with round reflector on top
+392|white|black|white/yellow|diamond reflector on wall, round reflector on back
+393|white|black|white/yellow|small post with black marks
+394|other|none|white/white|concrete block with white band
+395|orange|none|white/white|orange flexible urban post, white bands
+396|white|none|none|small white km marker
+397|white|black|yellow/white|Spanish type: black diagonal band with yellow reflector
+398|yellow|none|none|thin yellow snow pole
+399|white|black|yellow/white|black band with yellow reflector; two round on back
+400|striped|none|none|red-white snow pole
+401|striped|none|none|red-white snow pole
+402|white|black|none|square concrete block, black base
+403|white|red|none|thin post, red band and black band
+404|white|black|white/white|Swedish type: black band, white reflector; round on back
+405|white|black|white/white|black band, white reflector
+406|red|none|none|thin red snow pole
+407|striped|none|none|thin red-white snow pole
+408|white|red|none|thin round post, red top band
+409|white|none|orange/orange|thin post, orange strip
+410|white|black|white/white|Swiss type: rounded top, black band; two round white on back
+411|white|black|white/white|black band; two round white on back
+412|white|black|white/white|black band
+413|grey|black|white/white|stone marker painted black with round reflector
+414|white|black|white/white|with orange snow pole extension, blue band
+415|white|black|white/white|with orange snow pole extension
+416|striped|none|orange/red|black-yellow striped post with round reflectors on top
+417|other|none|orange/red|round reflector on wall
+418|striped|none|orange/orange|three round orange reflectors on yellow-black post
+419|other|none|orange/red|round reflector on concrete barrier
+420|white|black|white/white|square post, black bands, two round reflectors on top
+421|white|black|none|square post, black diagonal band
+422|white|none|orange/white|two round orange reflectors, km number
+423|white|black|orange/white|square post, black bands, small orange reflector
+424|black|none|white/white|black post with white diagonal stripes
+425|white|blue|none|square post, blue bands
+426|white|none|blue/blue|round post, blue mark
+427|white|red|none|round post, red band
+428|white|none|red/white|flat post, red strip, km number
+429|white|none|none|plain white flat post
+430|striped|none|none|red-black-white striped snow pole
+431|yellow|none|red/white|yellow post, red strip
+432|yellow|none|white/white|yellow flat post / orange on back
+433|orange|none|white/white|orange flexible urban post, white bands
+434|white|none|none|concrete post with "UNRA" text
+435|grey|none|none|small concrete/stone marker
+436|white|red|none|square concrete post, red bands at top
+437|white|black|red/white|black square around reflector
+438|white|black|red/white|black band
+439|white|black|red/white|black band
+440|white|red|red/red|wide red band with reflector
+441|white|red|red/white|red rectangle
+442|white|red|red/red|wide red band
+443|red|none|white/white|thin red post with white band, on plate
+444|white|black|red/white|black rounded top
+445|white|black|red/white|UK type: black top with red reflector, black base
+446|white|blue|red/white|blue band with number (marker post)
+447|white|green|red/white|green band (marker post)
+448|white|none|red/white|thin snow pole, red bands
+449|white|red|none|round white post, red band, domed top
+450|grey|none|none|thin metal snow pole / delineator
+451|white|none|yellow/white|thin flat post, yellow strip (Alaska, Washington)
+452|grey|none|orange/none|perforated metal U-channel post, round amber reflector on top
+453|grey|none|yellow/none|metal post, yellow rectangle
+454|grey|none|green/none|metal post, green rectangle
+455|green|none|white/none|green metal T-post, small white rectangle
+456|grey|none|yellow/none|thin post with yellow diamond reflector / metal post
+457|white|none|white/yellow|flat post, yellow on back
+458|white|none|white/yellow|flat post, yellow reflector on back
+459|white|red|none|square concrete post, red pyramid top
+460|white|red|none|square concrete post, red pyramid top
+461|white|black|yellow/yellow|black band with yellow reflector
+462|white|black|white/white|black band

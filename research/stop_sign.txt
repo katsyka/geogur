@@ -1,0 +1,178 @@
+# sid | shape | text | border | note
+0|octagon|STOP|white|thin white outline
+1|octagon|STOP|none|dark maroon red
+2|octagon|STOP|none|rounded wide font
+3|octagon|STOP|none|dark maroon red
+4|octagon|PARE|red-white|white inner ring
+5|octagon|PARE|red-white|bold font, white inner ring
+6|octagon|STOP|none|
+7|octagon|STOP|white|STOP with three black dots (traffic light ahead / old style)
+8|octagon|STOP|none|
+9|octagon|STOP|white|thin outline
+10|octagon|none|none|blank red octagon, no text
+11|octagon|STOP|none|bright red
+12|rectangle|STOP|none|white plate, black STOP text, black border
+13|octagon|STOP|none|bright red
+14|octagon|STOP|none|rounded font
+15|hexagon|STOP|none|six-sided, small text
+16|octagon|STOP|none|bold narrow font
+17|octagon|PARE|white|white border, real photo
+18|octagon|STOP|none|
+19|octagon|STOP|none|
+20|octagon|STOP|none|
+21|octagon|PARE|white|white border
+22|octagon|STOP|white|white border
+23|octagon|local|none|Khmer text above small STOP
+24|octagon|local|white|Indigenous-language text only
+25|octagon|local|white|Indigenous text above STOP with crown symbol
+26|octagon|PARE|none|
+27|octagon|PARE|none|two lines PARE / STOP
+28|octagon|local|red-white|Chinese 停 character
+29|octagon|STOP|none|
+30|octagon|PARE|red-white|white inner ring, spaced letters
+31|octagon|ALTO|white|white border, real photo
+32|octagon|ALTO|none|dark red
+33|octagon|STOP|none|
+34|octagon|STOP|none|
+35|octagon|STOP|none|bold narrow font
+36|octagon|STOP|none|
+37|octagon|STOP|none|
+38|octagon|STOP|none|
+39|octagon|PARE|none|bold tall letters
+40|octagon|PARE|white|white border, real photo
+41|octagon|PARE|white|white border, real photo
+42|circle|local|none|blue circle, Arabic قف above StoP
+43|octagon|STOP|none|bright red
+44|rectangle|STOPP|none|white plate, black STOPP text
+45|octagon|STOP|none|
+46|triangle|STOP|none|red-bordered triangle with small STOP octagon (stop ahead)
+47|octagon|STOP|none|
+48|octagon|hand|none|old (1957-1971): yellow circle, red triangle, black hand
+49|octagon|STOP|none|
+50|circle|STOP|none|old: red circle, inverted triangle with STOP
+51|octagon|STOP|none|
+52|octagon|STOP|white|thin outline
+53|octagon|STOP|white|real photo
+54|octagon|STOP|none|
+55|octagon|STOP|red-white|white inner ring, narrow font
+56|octagon|STOP|red-white|white inner ring
+57|octagon|STOP|none|rounded wide font
+58|octagon|STOP|none|very bold narrow font
+59|octagon|STOP|none|
+60|octagon|STOP|none|dark maroon red
+61|octagon|ALTO|white|white border, real photo
+62|octagon|ALTO|red-white|white inner ring, bold
+63|octagon|bilingual|red-white|STOP above Chinese 停
+64|octagon|STOP|none|orange-red
+65|octagon|STOP|none|
+66|octagon|STOP|none|
+67|octagon|bilingual|white|local script above STOP
+68|octagon|STOP|none|
+69|octagon|STOP|none|real photo
+70|octagon|STOP|none|bright red
+71|octagon|STAD|none|Irish-language STAD
+72|octagon|STOP|none|rounded wide font
+73|octagon|hand|red-white|white hand, no text
+74|octagon|STOP|none|bold font
+75|circle|STOP|none|old: red circle, inverted triangle, black STOP
+76|circle|local|none|railway: yellow top with tram, red bottom とまれ / STOP
+77|inverted triangle|bilingual|white|止まれ above STOP
+78|octagon|STOP|none|rounded wide font
+79|octagon|bilingual|white|Arabic قف above STOP
+80|octagon|bilingual|white|Arabic قف above STOP, real photo
+81|octagon|STOP|white|bright red, thin outline
+82|rectangle|bilingual|none|white plate: ТОҚТА / СТОП (stop-line plate)
+83|octagon|STOP|white|bright red
+84|octagon|STOP|white|thin outline
+85|octagon|STOP|none|bright red
+86|octagon|bilingual|white|Lao ຢຸດ above STOP
+87|octagon|local|none|Lao ຢຸດ only
+88|octagon|STOP|none|pinkish red
+89|octagon|bilingual|none|Arabic قف above STOP
+90|octagon|STOP|white|real photo
+91|octagon|STOP|white|bright red
+92|triangle|STOP|none|red-bordered triangle with small STOP octagon (stop ahead)
+93|octagon|STOP|white|metal frame rim, real photo
+94|octagon|STOP|none|dark red
+95|rectangle|STOP|none|white plate, black STOP text
+96|octagon|STOP|none|
+97|octagon|STOP|none|very bold condensed font
+98|octagon|STOP|none|tall condensed font
+99|circle|STOP|none|old style: red circle, inverted triangle, black STOP
+100|octagon|BERHENTI|none|Malay BERHENTI, condensed
+101|octagon|BERHENTI|white|real photo
+102|octagon|STOP|none|bold font
+103|octagon|ALTO|white|white border, real photo
+104|octagon|ALTO|white|white border, real photo
+105|octagon|STOP|white|thin outline
+106|octagon|local|red-white|Mongolian ЗОГС, white inner ring
+107|octagon|local|white|Mongolian ЗОГС, real photo
+108|octagon|STOP|none|
+109|octagon|STOP|none|
+110|triangle|STOP|none|red-bordered triangle with small STOP octagon (stop ahead)
+111|octagon|STOP|none|
+112|octagon|STOP|none|
+113|octagon|STOP|white|real photo
+114|octagon|STOP|yellow|yellow border and yellow STOP text
+115|octagon|STOP|none|
+116|octagon|STOP|none|dark maroon red
+117|octagon|STOP|none|orange-red, narrow font
+118|octagon|bilingual|white|Arabic قف above STOP, real photo
+119|octagon|bilingual|white|faded, red text on grey: Arabic above STOP
+120|octagon|hand|red-white|white hand, no text
+121|octagon|ALTO|white|thin outline
+122|octagon|ALTO|white|real photo
+123|octagon|PARE|red-white|white inner ring
+124|octagon|PARE|white|real photo
+125|octagon|PARE|red-white|white inner ring
+126|octagon|STOP|white|real photo
+127|octagon|STOP|none|
+128|octagon|STOP|white|thin outline
+129|circle|STOP|none|old: red circle, inverted triangle, black STOP
+130|octagon|STOP|none|bright red
+131|octagon|PARE|none|dark red
+132|octagon|bilingual|none|Arabic قف above STOP
+133|octagon|bilingual|white|Arabic above STOP, real photo
+134|octagon|STOP|none|bright red
+135|octagon|STOP|white|real photo
+136|octagon|STOP|none|bright red
+137|rectangle|local|none|white plate, black СТОП
+138|octagon|STOP|none|bolt holes visible
+139|hexagon|STOP|none|elongated six-sided shape
+140|octagon|STOP|none|
+141|octagon|STOP|white|thin outline, bold font
+142|octagon|STOP|white|real photo
+143|octagon|STOP|white|real photo
+144|octagon|STOP|none|
+145|octagon|STOP|white|real photo
+146|octagon|STOP|none|bold font on grey backing
+147|circle|STOP|none|red ring: STOP / Kontrolovaný prejazd (checked crossing)
+148|octagon|STOP|white|orange-red, thin outline
+149|octagon|STOP|white|thin outline
+150|triangle|STOP|none|red-bordered triangle with small STOP octagon (stop ahead)
+151|octagon|STOP|none|
+152|octagon|bilingual|none|Korean 정지 above STOP
+153|circle|STOP|none|old (1962-1976): red circle, inverted triangle, black STOP
+154|octagon|STOP|white|real photo
+155|octagon|STOP|none|small text
+156|octagon|STOP|none|
+157|octagon|STOP|none|
+158|octagon|STOP|white|metal frame rim, real photo
+159|octagon|STOP|none|bright red
+160|octagon|local|none|Chinese 停 only
+161|octagon|local|none|Thai หยุด
+162|octagon|local|white|Thai หยุด, real photo
+163|octagon|bilingual|white|Arabic قف above STOP, real photo
+164|octagon|DUR|red-white|Turkish DUR, white inner ring
+165|octagon|STOP|white|real photo
+166|octagon|STOP|none|
+167|octagon|STOP|none|
+168|rectangle|local|none|white plate, black СТОП
+169|octagon|bilingual|none|Arabic قف above STOP
+170|circle|STOP|none|old (1965-1975): red circle, white triangle, black STOP
+171|octagon|STOP|none|rounded font
+172|octagon|STOP|none|dark maroon red
+173|octagon|STOP|none|blue octagon (private roads / Hawaii)
+174|octagon|STOP|none|dark maroon red
+175|octagon|PARE|red-white|white inner ring, bold
+176|octagon|STOP|white|real photo

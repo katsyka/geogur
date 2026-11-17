@@ -1,0 +1,33 @@
+# sid | background | text | note
+0|blue|white|dark blue enamel with number and street name
+1|green|white|green enamel with number and street name (Styria)
+2|grey|white|grey enamel with number and street name
+3|blue|white|small dark blue plate
+4|blue|yellow|blue plate with wavy white border, yellow number
+5|blue|white|dark blue enamel with number and street name
+6|red|white|red plate (conscription number) above blue plate (orientation number)
+7|white|red|white/red name plate above dark grey number plate (Brno)
+8|black|white|dark plate, Arabic and Latin digits
+9|blue|white|dark blue enamel with white border
+10|blue|white|blue house-shaped plate, Georgian and Latin street name
+11|blue|white|light blue plate, Georgian and Latin street name
+12|blue|white|light blue long plate, Georgian and Latin
+13|blue|white|blue enamel with white border
+14|blue|white|blue plate with white border
+15|blue|white|blue long plate with ornament, Kazakh and Russian
+16|black|white|dark plate with street name and municipal text
+17|white|black|white enamel, black numbers, two screws
+18|blue|white|small dark blue plate
+19|blue|white|blue long plate with district name and number
+20|blue|white|blue square with white border
+21|blue|white|blue long plate, УЛИЦА and number box
+22|blue|white|small dark blue plate
+23|white|black|white plate (orientation number) above red-bordered plate
+24|red|white|red plate with number and settlement name
+25|green|white|green plate with number and code
+26|blue|white|navy house-shaped plate, Korean and Latin
+27|blue|white|navy square plate with white frame
+28|green|green|green and white plate, Chinese
+29|blue|white|blue plate with Chinese street, district and postcode
+30|blue|white|blue plate with Chinese district and postcode
+31|blue|white|small blue plate with white border
